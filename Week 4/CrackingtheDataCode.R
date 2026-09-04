@@ -11,10 +11,8 @@
 # A surprise awaits you behind the barrier of the pass code at this website:
 # https://kaylablincow.shinyapps.io/CrackingTheDataCode/
 
-# Break into 3-4 groups and work together to complete the data wrangling 
-# exercises below to learn the passcode and find out the surprise.
-
-# The first group to crack the code gets a prize!
+# Complete the data wrangling exercises below to learn the passcode and find out
+# the surprise.
 
 
 

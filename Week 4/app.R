@@ -84,7 +84,7 @@ main_app_ui <- navbarPage(
     h1("Welcome to the Secret Page! 🎉"),
     
     p(
-      "You have successfully unlocked this page using the correct passcode."
+      "You have successfully unlocked this page using the correct passcode. Go see Kayla for a prize!"
     ),
     
     br(),
