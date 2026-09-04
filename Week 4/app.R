@@ -1,74 +1,189 @@
 library(shiny)
+library(tidyverse)
+library(bslib)
 
-# Define the correct passcode
+# ============================================================
+# 1. PASSWORD
+# ============================================================
+
 CORRECT_PASSCODE <- "secret123"
 
-# --- 1. Login Page UI ---
-login_ui <- fluidPage(
-  style = "max-width: 400px; margin: 100px auto; padding: 20px; border: 1px solid #ddd; border-radius: 8px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1);",
-  h2("Enter Passcode", align = "center"),
-  br(),
-  passwordInput("passcode_input", "Passcode:", placeholder = "Enter your code here"),
-  actionButton("submit_btn", "Submit", class = "btn-primary btn-block", style = "width: 100%;"),
-  br(), br(),
-  uiOutput("error_message") # Displays an error message if the code is wrong
+
+# ============================================================
+# 2. THEMES
+# ============================================================
+
+# Theme shown on the login screen
+login_theme <- bs_theme(
+  version = 5,
+  bootswatch = "flatly"
 )
 
-# --- 2. Main Content Page UI (The target page) ---
-main_app_ui <- fluidPage(
-  theme = bslib::bs_theme(bootswatch = "flatly"), # Optional theme to look nice
-  navbarPage(
-    title = "My Secured Shiny App",
-    tabPanel("Dashboard",
-             h1("Welcome to the Secret Page! 🎉"),
-             p("You have successfully unlocked this page using the correct passcode."),
-             plotOutput("example_plot")
+# Theme shown after successful login
+secret_theme <- bs_theme(
+  version = 5,
+  bootswatch = "quartz"
+)
+
+
+# ============================================================
+# 3. LOGIN PAGE
+# ============================================================
+
+login_ui <- div(
+  
+  style = "
+    max-width: 400px;
+    margin: 100px auto;
+    padding: 30px;
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 2px 2px 12px rgba(0,0,0,0.15);
+  ",
+  
+  h2(
+    "Enter Passcode",
+    align = "center"
+  ),
+  
+  br(),
+  
+  passwordInput(
+    "passcode_input",
+    "Passcode:",
+    placeholder = "Enter your code here"
+  ),
+  
+  actionButton(
+    "submit_btn",
+    "Submit",
+    class = "btn-primary",
+    style = "width: 100%;"
+  ),
+  
+  br(),
+  br(),
+  
+  uiOutput("error_message")
+)
+
+
+# ============================================================
+# 4. SECRET PAGE
+# ============================================================
+
+main_app_ui <- navbarPage(
+  
+  title = "My Secured Shiny App",
+  
+  tabPanel(
+    
+    "Puppy!",
+    
+    h1("Welcome to the Secret Page! 🎉"),
+    
+    p(
+      "You have successfully unlocked this page using the correct passcode."
     ),
-    tabPanel("Settings",
-             h3("Application Settings"),
-             p("This is another tab on your hidden page.")
+    
+    br(),
+    
+    # Display the puppy image directly
+    img(
+      src = "cutepuppy.jpg",
+      style = "
+        display: block;
+        max-width: 100%;
+        height: auto;
+        margin: 20px auto;
+        border-radius: 10px;
+      "
     )
   )
 )
 
-# --- 3. Combined Master UI ---
-# This acts as a placeholder container that swaps between the login and main screens
-ui <- uiOutput("dynamic_page")
 
-# --- 4. Server Logic ---
+# ============================================================
+# 5. MASTER UI
+# ============================================================
+
+# The app starts with the login theme.
+# The server switches to the darkly theme after login.
+
+ui <- fluidPage(
+  
+  theme = login_theme,
+  
+  uiOutput("dynamic_page")
+)
+
+
+# ============================================================
+# 6. SERVER
+# ============================================================
+
 server <- function(input, output, session) {
   
-  # Set up a reactive values object to track if the user is authenticated
-  auth_state <- reactiveValues(authenticated = FALSE)
+  # Track whether the user has successfully logged in
+  auth_state <- reactiveVal(FALSE)
   
-  # Watch for the submit button click
+  
+  # ----------------------------------------------------------
+  # Handle login
+  # ----------------------------------------------------------
+  
   observeEvent(input$submit_btn, {
+    
     if (input$passcode_input == CORRECT_PASSCODE) {
-      auth_state$authenticated <- TRUE
+      
+      # User successfully authenticated
+      auth_state(TRUE)
+      
+      # Switch to the Darkly theme
+      session$setCurrentTheme(secret_theme)
+      
     } else {
-      # Show error message if it's incorrect
+      
+      # Display an error message
       output$error_message <- renderUI({
-        div(style = "color: red; margin-top: 10px; font-weight: bold;", 
-            "❌ Incorrect passcode. Please try again.")
+        
+        div(
+          style = "
+            color: #dc3545;
+            margin-top: 10px;
+            font-weight: bold;
+          ",
+          "❌ Incorrect passcode. Please try again."
+        )
       })
     }
   })
   
-  # Dynamically switch the user interface based on auth_state$authenticated
+  
+  # ----------------------------------------------------------
+  # Switch between login and secret page
+  # ----------------------------------------------------------
+  
   output$dynamic_page <- renderUI({
-    if (auth_state$authenticated) {
+    
+    if (auth_state()) {
+      
       main_app_ui
+      
     } else {
+      
       login_ui
     }
   })
-  
-  # Example output rendering for your main page data
-  output$example_plot <- renderPlot({
-    req(auth_state$authenticated) # Don't run this unless authenticated
-    plot(rnorm(100), col = "steelblue", pch = 16, main = "Random Data Distribution")
-  })
 }
 
-# Run the Application
-shinyApp(ui = ui, server = server)
+
+# ============================================================
+# 7. RUN THE APPLICATION
+# ============================================================
+
+shinyApp(
+  ui = ui,
+  server = server
+)
