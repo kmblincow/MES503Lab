@@ -1,0 +1,241 @@
+"site","habitat","sex","depth_m","length_cm","mass_g","reproductive_output","algae_cover","fish_density"
+"North Reef","Rubble","Male",13.6,28.9,20584,29.9,65.7,16.8
+"North Reef","Coral Reef","Male",13.4,25.4,13389,24.4,31.6,16.4
+"North Reef","Coral Reef","Male",17.3,24.7,13627,16.7,17,13.1
+"North Reef","Coral Reef","Female",5.5,31.5,27720,43.2,24.4,21.2
+"North Reef","Rubble","Male",14.2,25.6,13070,20.9,60.6,15.3
+"North Reef","Coral Reef","Female",9.2,30.6,24510,25.9,5.8,13.5
+"North Reef","Coral Reef","Female",10.9,NA,20886,35.4,21.2,18.7
+"North Reef","Rubble","Female",10.5,20.4,5393,27.7,52.7,19.9
+"North Reef","Seagrass","Female",12,25.5,13236,30.2,57.4,15.4
+"North Reef","Coral Reef","Male",15.8,31.2,24849,30.3,16.9,16.2
+"North Reef","Coral Reef","Male",14,29,19736,22.3,13.2,14.1
+"North Reef","Rubble","Female",15,23.5,12041,30.6,44.4,8.3
+"North Reef","Seagrass","Female",14.6,26.9,15678,33.4,54,26.3
+"North Reef","Seagrass","Female",11.4,27.9,17552,32.4,45.1,17
+"North Reef","Coral Reef","Female",15.8,30.2,23804,29.8,36.6,19.5
+"North Reef","Coral Reef","Male",6,23.4,10084,19.7,33.1,21.3
+"North Reef","Rubble","Female",9.7,21.1,8299,25.2,55.7,20.3
+"North Reef","Seagrass","Male",9.8,27.6,16716,24.9,42.4,17.5
+"North Reef","Seagrass","Female",6.3,26,13671,26.8,60.1,16.6
+"North Reef","Seagrass","Male",7.5,29.9,21831,19.6,41.6,16.3
+"North Reef","Coral Reef","Female",15.3,33.1,30335,NA,25.6,11.2
+"North Reef","Seagrass","Female",10.7,22.6,9080,21.3,58,20
+"North Reef","Coral Reef","Female",7,27.7,18537,21.9,18.8,15.1
+"North Reef","Rubble","Male",14.2,23.1,10855,24.5,62.5,25.7
+"North Reef","Coral Reef","Female",12.7,30.4,24420,29.3,8.9,16.6
+"North Reef","Rubble","Female",10,25.1,14317,31.3,64.6,23.7
+"North Reef","Seagrass","Female",9.1,33.7,32905,33.2,46,15.2
+"North Reef","Seagrass","Male",9.4,24.7,12543,21.8,48.2,20.2
+"North Reef","Coral Reef","Female",11.2,29.3,21918,39.3,25.9,16.8
+"North Reef","Coral Reef","Male",15.3,25.1,12072,23,23.5,22.5
+"North Reef","Rubble","Female",15.1,31.7,27479,18,66.3,12.2
+"North Reef","Seagrass","Female",16.3,22.4,9537,18.7,43.6,15
+"North Reef","Seagrass","Female",10.6,24.8,13206,29.9,62.4,23.5
+"North Reef","Coral Reef","Male",15,30.3,25544,31.7,4.8,23.3
+"North Reef","Coral Reef","Female",9.8,36.3,41414,38.1,12.6,18.2
+"North Reef","Seagrass","Male",9.5,28.7,20751,29.9,45.5,26.2
+"North Reef","Rubble","Female",7.2,20.8,8010,24,66.8,13.6
+"North Reef","Coral Reef","Male",11.4,28.5,19730,8.1,31.3,12.8
+"North Reef","Rubble","Male",NA,18.8,5849,NA,69.9,15.7
+"North Reef","Seagrass","Male",15.2,29,20435,29.3,62.5,11.8
+"North Reef","Rubble","Female",17.9,25.2,13630,24.8,52.6,11.3
+"North Reef","Seagrass","Male",16.8,26.1,13797,NA,49.1,18.9
+"North Reef","Seagrass","Female",9.4,28,18235,37.1,58.1,9.6
+"North Reef","Coral Reef","Female",11.4,29.9,22446,28,19.7,21.4
+"North Reef","Seagrass","Female",9.6,26.4,15664,NA,55.2,14.6
+"North Reef","Coral Reef","Female",11.9,30,22109,30.1,28,13.9
+"North Reef","Coral Reef","Male",13.3,36.7,41890,30.3,22,16.3
+"North Reef","Rubble","Female",11.9,NA,8104,22.6,45.6,20.7
+"North Reef","Rubble","Male",11.1,26,14900,22.9,62.1,22.2
+"North Reef","Rubble","Male",11.7,30,23384,24.8,53.9,21
+"North Reef","Seagrass","Male",11.7,26,14031,17.7,60.4,21.4
+"North Reef","Seagrass","Female",12.9,28.5,18692,40.5,54.6,22.5
+"North Reef","Seagrass","Female",9.6,32.9,29045,33,60.8,26.9
+"North Reef","Coral Reef","Female",13.2,35.4,37673,42.5,23.1,19.3
+"North Reef","Seagrass","Female",10.7,23.6,11510,23.8,49.3,19
+"North Reef","Coral Reef","Female",9.1,35.5,37294,49.4,25.3,16.1
+"North Reef","Coral Reef","Male",NA,35.6,38264,32.7,37,9.1
+"North Reef","Rubble","Female",14.4,23.3,9738,30.7,74.9,18.4
+"North Reef","Coral Reef","Female",10.3,29,20659,46.1,24.2,20.4
+"North Reef","Seagrass","Male",8.5,25,13495,NA,43.9,20.4
+"South Reef","Rubble","Female",NA,29.1,20721,16.8,63.8,18.8
+"South Reef","Coral Reef","Female",18,26.3,17274,28.4,24.6,31.4
+"South Reef","Seagrass","Female",21.7,23.2,11296,28.3,61.1,23.7
+"South Reef","Seagrass","Male",14.2,29.6,21410,26.6,60.2,22.2
+"South Reef","Rubble","Female",23.4,25.6,14873,32.8,66.8,33.9
+"South Reef","Seagrass","Female",16,22.7,10067,21.6,56.6,33.3
+"South Reef","Seagrass","Male",17,28.4,19153,NA,30.6,29.2
+"South Reef","Coral Reef","Male",23.2,27.9,17976,22.1,10.2,38.7
+"South Reef","Coral Reef","Male",20.6,36.3,40601,30.7,34.6,27
+"South Reef","Rubble","Female",11.8,25.1,13041,27.6,56,27.6
+"South Reef","Coral Reef","Female",20.8,39.9,54294,46.9,6.8,25
+"South Reef","Coral Reef","Male",19.1,22.8,9390,17.6,14,17.8
+"South Reef","Coral Reef","Male",21.3,32.3,28910,28.7,9.9,34.1
+"South Reef","Rubble","Male",19.8,29,19356,30.7,60.8,25.5
+"South Reef","Rubble","Male",23.3,31.7,27687,27.6,48.4,24.7
+"South Reef","Seagrass","Male",19.7,26.2,16325,23.1,46.9,28.3
+"South Reef","Rubble","Male",21.7,23.3,11788,29.2,71.5,21.5
+"South Reef","Coral Reef","Male",21.4,35.3,38086,33.8,29.6,29.7
+"South Reef","Seagrass","Male",12.8,25.5,14683,26.5,48.4,17.8
+"South Reef","Coral Reef","Male",19.8,27.7,17959,23.4,10.9,29.6
+"South Reef","Coral Reef","Female",18,24.3,13143,32,44.3,24.1
+"South Reef","Rubble","Female",13,22.8,7077,34.7,52.5,30
+"South Reef","Seagrass","Male",12.7,18.7,4153,15.5,43.3,28
+"South Reef","Coral Reef","Female",14.4,31.7,28709,NA,4.2,21.7
+"South Reef","Coral Reef","Male",24.3,29.8,22212,29.8,18.7,32.5
+"South Reef","Rubble","Female",21.3,18.7,6189,30.6,54.9,19.9
+"South Reef","Rubble","Female",16,18.9,5193,21.5,63.2,27.3
+"South Reef","Coral Reef","Male",18,26.4,14156,20.1,25.6,31.8
+"South Reef","Seagrass","Female",17.3,27,16313,31.7,49.3,21.5
+"South Reef","Seagrass","Female",17.4,21,7657,23.3,56.1,38.2
+"South Reef","Rubble","Male",22.8,NA,23145,25.3,68.9,19.3
+"South Reef","Rubble","Male",24.3,28.4,19312,24.3,67.4,24.4
+"South Reef","Coral Reef","Female",19.3,27,16966,28,12.5,22.1
+"South Reef","Coral Reef","Female",14.4,33.8,33413,39.7,19.6,24
+"South Reef","Rubble","Male",15.5,28,18114,NA,58.2,24.8
+"South Reef","Coral Reef","Female",14.7,33.7,33068,32.9,3.7,32.5
+"South Reef","Seagrass","Female",17.9,22.7,9625,32.5,69.8,23.2
+"South Reef","Rubble","Male",13,20,6848,19.6,72.1,15.7
+"South Reef","Rubble","Female",22.4,30.3,24902,29.8,63.1,29.9
+"South Reef","Coral Reef","Female",23.5,35.9,38493,39.3,20.7,19.1
+"South Reef","Rubble","Female",17,28.3,19219,28.4,73,29.7
+"South Reef","Seagrass","Female",12.6,22.7,8812,34.6,35.8,27.7
+"South Reef","Coral Reef","Female",14.8,29.9,22217,31.9,9.1,33.7
+"South Reef","Seagrass","Male",16,31.2,26763,33.8,41.5,19
+"South Reef","Seagrass","Male",21.2,29.1,21690,22.6,47.8,31.1
+"South Reef","Coral Reef","Male",16.2,34.4,34094,17.1,26.3,22.8
+"South Reef","Coral Reef","Male",19.4,30.7,26039,28,24.9,30.8
+"South Reef","Seagrass","Female",17,26.2,16146,25.6,63,25.1
+"South Reef","Coral Reef","Male",18,28.3,19252,25.7,11.4,30.9
+"South Reef","Seagrass","Female",22.2,30.1,22675,35.4,44.3,24.7
+"South Reef","Seagrass","Female",19.7,26.8,16030,29.2,44.2,32.4
+"South Reef","Seagrass","Male",20.7,32.6,29331,30,32,20
+"South Reef","Coral Reef","Female",19,30.3,23916,25.7,29.3,27
+"South Reef","Rubble","Male",19.2,26.4,15736,18.4,73.7,29.6
+"South Reef","Seagrass","Male",21.4,22.1,8550,33.3,55.7,30.3
+"South Reef","Coral Reef","Female",17.5,36.2,41096,51.1,22.1,23.7
+"South Reef","Rubble","Male",14.3,19.8,7616,19.1,50,23.2
+"South Reef","Coral Reef","Female",13.1,28.5,20953,38.9,26.7,22.4
+"South Reef","Coral Reef","Female",16.4,33.2,29880,30.7,31.6,25
+"South Reef","Coral Reef","Female",20.4,29.5,22287,31.5,26.3,25
+"Patch Reef","Coral Reef","Male",8.9,26.3,15835,28.3,23.3,6.6
+"Patch Reef","Seagrass","Female",9.6,20,7059,26.3,35.2,19.4
+"Patch Reef","Seagrass","Male",9.1,12,1130,13.7,49.9,11.4
+"Patch Reef","Coral Reef","Male",7.7,21.1,8478,23.4,3.6,11.5
+"Patch Reef","Coral Reef","Male",8.5,34.2,35614,32.4,30.3,10.5
+"Patch Reef","Rubble","Male",6.6,26.5,15327,14.4,45,4.9
+"Patch Reef","Coral Reef","Male",6.4,25.3,13738,12.6,19.9,9.3
+"Patch Reef","Coral Reef","Male",7.5,21,6941,16.1,19.5,17
+"Patch Reef","Coral Reef","Male",9.4,33.9,33635,26.3,18,10.3
+"Patch Reef","Seagrass","Male",12.5,23.5,10440,15,37.9,8.7
+"Patch Reef","Seagrass","Male",6.4,29.3,21182,27.7,61.6,15.3
+"Patch Reef","Rubble","Male",2,21.3,7377,21.8,51.1,11.4
+"Patch Reef","Seagrass","Male",4.8,31.7,27859,30.1,47.6,14.3
+"Patch Reef","Rubble","Female",6.5,25.5,14364,27.3,56.5,8.3
+"Patch Reef","Rubble","Female",12.3,27.4,16861,38.3,59.2,9
+"Patch Reef","Seagrass","Male",11.8,26.1,16084,30,47.7,12.2
+"Patch Reef","Seagrass","Male",6.6,23.5,9724,16.7,36.8,15.5
+"Patch Reef","Seagrass","Male",9.5,26.7,16837,27.7,51.7,19.5
+"Patch Reef","Seagrass","Female",11.3,30.2,23297,43.1,47.5,10.2
+"Patch Reef","Coral Reef","Female",12.7,32,27767,39.1,6.2,6.5
+"Patch Reef","Seagrass","Female",4.8,23.7,10966,20.8,44.2,7.3
+"Patch Reef","Coral Reef","Male",15.5,21,8086,23.4,19.5,7.7
+"Patch Reef","Seagrass","Female",7.3,25.6,15004,31.7,31,10.9
+"Patch Reef","Rubble","Female",7.4,25.4,13365,23.7,78.4,2.2
+"Patch Reef","Coral Reef","Male",4.6,26.2,16380,32.7,31.3,18.5
+"Patch Reef","Coral Reef","Female",8.7,28.9,19949,31.1,21.4,7
+"Patch Reef","Coral Reef","Female",9.5,31.4,26476,38.4,5.3,9.4
+"Patch Reef","Coral Reef","Female",2,25.9,14597,26,22.7,18.8
+"Patch Reef","Coral Reef","Female",4.9,32,27436,32.1,17.4,8.3
+"Patch Reef","Seagrass","Male",7.6,27.3,16498,NA,34.6,6.7
+"Patch Reef","Seagrass","Male",9.1,29.4,23307,20.2,55.5,10.1
+"Patch Reef","Coral Reef","Female",2,26.6,14505,32.6,25.5,10.4
+"Patch Reef","Coral Reef","Male",12.9,30.9,25651,23.9,12.3,15.9
+"Patch Reef","Coral Reef","Female",10.4,29.8,22502,29.1,27.2,16.9
+"Patch Reef","Seagrass","Male",11.7,27.3,17647,22.6,28.7,11.9
+"Patch Reef","Coral Reef","Male",8.1,29.9,22343,23.2,24.9,1.7
+"Patch Reef","Coral Reef","Male",3,37,43031,29.7,8.1,13.3
+"Patch Reef","Rubble","Male",14.2,25.1,12407,14.7,64.7,8.8
+"Patch Reef","Seagrass","Female",7.6,28.5,19640,29,35.3,15.4
+"Patch Reef","Coral Reef","Female",5.2,24,12644,27.4,17.3,10.4
+"Patch Reef","Seagrass","Female",5.9,18.4,6400,15.7,54.8,10.8
+"Patch Reef","Coral Reef","Female",10.3,33.5,31320,36.6,6.9,8.4
+"Patch Reef","Coral Reef","Male",7.1,28.6,19115,23.5,4.3,18.1
+"Patch Reef","Coral Reef","Female",9.9,25,12762,30.3,9.8,17.6
+"Patch Reef","Seagrass","Female",10.8,23,8720,29.9,56,1.9
+"Patch Reef","Coral Reef","Female",9.8,33.2,31592,35.9,20,6.2
+"Patch Reef","Coral Reef","Female",12.3,31.1,26146,40.3,5.3,15.1
+"Patch Reef","Coral Reef","Male",4.7,NA,22682,24,10.7,16.6
+"Patch Reef","Coral Reef","Female",11.3,32.5,29244,33.3,21.3,9.8
+"Patch Reef","Seagrass","Female",3.6,25.2,13577,33.4,54.6,9
+"Patch Reef","Seagrass","Female",9.3,28.5,19578,33.4,42.5,4.4
+"Patch Reef","Coral Reef","Male",11.7,28.1,18192,NA,11.7,7.9
+"Patch Reef","Seagrass","Female",5.2,22.3,10337,22.6,45.2,12
+"Patch Reef","Coral Reef","Male",9.1,26.8,15012,32.3,34.9,6.5
+"Patch Reef","Coral Reef","Female",9.8,22.4,10545,28.4,10.9,9.7
+"Patch Reef","Coral Reef","Male",7.9,27.6,17866,32.3,28.6,6.7
+"Patch Reef","Seagrass","Male",5.5,23.5,10536,25.8,51.2,18.8
+"Patch Reef","Rubble","Male",7.3,26.5,14942,21.7,81.2,7.3
+"Patch Reef","Coral Reef","Male",7.1,26.1,14904,24.1,18.3,9.1
+"Patch Reef","Seagrass","Male",9.8,24.2,12359,16.2,37.8,6
+"Fringing Reef","Coral Reef","Female",6.9,23.5,10195,28.2,29.9,12.9
+"Fringing Reef","Seagrass","Female",6.3,18.6,6360,16.3,56.9,1
+"Fringing Reef","Rubble","Male",4.1,14.9,3504,13.2,52,6.3
+"Fringing Reef","Coral Reef","Male",6.4,28.7,20135,26.4,10.7,14.1
+"Fringing Reef","Coral Reef","Female",9.9,30.7,24339,37,5.7,12
+"Fringing Reef","Coral Reef","Male",5.3,32.6,29281,31.1,37.2,7.7
+"Fringing Reef","Seagrass","Male",8,22.3,10248,23.6,62.6,5.5
+"Fringing Reef","Seagrass","Female",11.4,27.6,17804,32,62.9,9.8
+"Fringing Reef","Coral Reef","Male",4.1,32.2,27423,28.1,9.6,19.2
+"Fringing Reef","Coral Reef","Female",4.3,26.5,14767,30.3,6.5,11.7
+"Fringing Reef","Coral Reef","Female",7.2,36.8,43822,36.3,21.8,4.7
+"Fringing Reef","Rubble","Male",9.4,NA,3150,15.7,51.4,2.8
+"Fringing Reef","Rubble","Female",4.9,25.2,15505,23.6,61,16
+"Fringing Reef","Rubble","Female",2,22.3,9957,20.1,56.4,9
+"Fringing Reef","Coral Reef","Male",2,22.3,9032,11.9,13.2,5.7
+"Fringing Reef","Coral Reef","Female",NA,31.3,25592,39.1,17,9.2
+"Fringing Reef","Coral Reef","Male",6.7,23.7,10853,15.1,0,16.3
+"Fringing Reef","Coral Reef","Female",11,34.6,35818,34.8,33.4,3.9
+"Fringing Reef","Coral Reef","Male",12.1,25.1,12339,28,20.1,18.2
+"Fringing Reef","Seagrass","Female",9.3,25.2,12746,NA,45.9,8.2
+"Fringing Reef","Seagrass","Female",4.8,22.3,11741,25.1,61.3,1
+"Fringing Reef","Coral Reef","Male",7.7,25.8,15029,30.3,20.1,13.2
+"Fringing Reef","Seagrass","Male",7.1,31.1,24808,21,32.8,8.1
+"Fringing Reef","Seagrass","Female",7.7,33.9,34525,32.7,43,10.2
+"Fringing Reef","Coral Reef","Male",7,33.1,30297,26.9,24.6,5.2
+"Fringing Reef","Coral Reef","Male",7,32.9,30563,28.2,30.9,10.2
+"Fringing Reef","Coral Reef","Male",6.4,31.5,28142,31.7,25.3,11.5
+"Fringing Reef","Coral Reef","Male",2,25.8,13765,20.6,15.6,14.7
+"Fringing Reef","Coral Reef","Male",5.4,30.8,24983,31.1,19.3,10.6
+"Fringing Reef","Seagrass","Female",4.4,23.9,11893,17.1,44.6,7.5
+"Fringing Reef","Rubble","Male",10.3,NA,9367,12.1,48.1,11.5
+"Fringing Reef","Coral Reef","Male",2,26.3,15045,20.7,21.2,15.7
+"Fringing Reef","Rubble","Female",5.4,28.4,19139,32.9,68.1,7.2
+"Fringing Reef","Coral Reef","Female",6.5,29.3,22545,29.5,23.9,11.8
+"Fringing Reef","Coral Reef","Male",6.2,25,13770,16.7,28,6.4
+"Fringing Reef","Seagrass","Female",4.7,33.3,31624,38.7,34.6,13.4
+"Fringing Reef","Rubble","Male",2,26.6,15227,22.1,51.5,12.3
+"Fringing Reef","Seagrass","Female",10.7,24.5,12600,NA,34.3,6.4
+"Fringing Reef","Coral Reef","Female",2.7,26.4,16086,32.4,25.7,3.4
+"Fringing Reef","Coral Reef","Male",NA,31,26808,28.4,26.3,10
+"Fringing Reef","Seagrass","Female",5.1,NA,4473,17.9,37.8,13
+"Fringing Reef","Coral Reef","Male",3.7,26.7,14992,21.2,9.4,8.3
+"Fringing Reef","Seagrass","Male",6,24.5,12109,23.6,53,7.7
+"Fringing Reef","Rubble","Male",2.3,24.4,11623,25.2,64.9,4.3
+"Fringing Reef","Coral Reef","Male",3.6,31.7,27344,28,13.4,8.2
+"Fringing Reef","Coral Reef","Female",10.5,27.6,17265,22.4,7.7,11.9
+"Fringing Reef","Rubble","Female",10.5,23.6,10607,24.5,61.3,11.1
+"Fringing Reef","Rubble","Male",2,21.2,6384,11.8,62.4,9.1
+"Fringing Reef","Coral Reef","Female",3.7,29.8,22528,25.5,12.6,6.1
+"Fringing Reef","Coral Reef","Female",8.9,32.1,28096,20.5,34,9.9
+"Fringing Reef","Seagrass","Female",6.6,24.4,12952,32.3,57.4,10.9
+"Fringing Reef","Seagrass","Male",3,22.5,8858,19.8,57.4,13.5
+"Fringing Reef","Coral Reef","Male",6.1,25.5,14048,17.2,15.1,12
+"Fringing Reef","Coral Reef","Male",8.4,27.7,18373,27,15.2,14.1
+"Fringing Reef","Rubble","Female",2.2,16.7,3474,23.1,84.1,1
+"Fringing Reef","Seagrass","Male",3.5,27.2,17887,27.1,50.5,19.1
+"Fringing Reef","Seagrass","Male",2,16.4,3266,19.5,44.9,1
+"Fringing Reef","Coral Reef","Female",10.2,24.6,13580,27.4,24.1,12.5
+"Fringing Reef","Seagrass","Male",6.4,27.1,18555,19.8,55.1,16.1
+"Fringing Reef","Seagrass","Male",3.7,23.5,11236,21.3,51.6,6.8
