@@ -5,7 +5,7 @@ account: kaylablincow
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 17828570
-bundleId: 12508843
+bundleId: 12508877
 url: https://kaylablincow.shinyapps.io/CrackingTheDataCode/
 version: 1
 asMultiple: FALSE
