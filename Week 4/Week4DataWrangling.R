@@ -109,6 +109,9 @@ names(fish)
 
 # WRITE YOUR ANSWERS HERE
 
+
+
+
 #### PART 1: INDEXING DATA USING BASE R
 
 # One of the most fundamental skills in R is INDEXING.
@@ -186,80 +189,39 @@ fish[6:10, c("species", "length_cm", "mass_g")]
 
 #### PART 2: FILTERING ROWS USING BASE R
 
-# Indexing becomes especially powerful when we combine it with
-
-# logical conditions.
-
-#
-
+# Indexing becomes especially powerful when we combine it with logical conditions.
 # For example, suppose we only want to look at fish longer than 20 cm.
-
-#
-
 # We can create a logical statement:
 
 fish$length_cm > 20
-
 # R returns TRUE or FALSE for every observation.
 
-#
-
 # TRUE means the observation meets our condition.
-
 # FALSE means it does not.
 
 # We can use this logical vector to subset our data.
-
 fish[fish$length_cm > 20, ]
 
 # Read this code from the inside out:
-
-#
-
-# fish$length_cm > 20
-
-#
-
-# asks which fish are longer than 20 cm.
-
-#
-
-# fish[ ... , ]
-
-#
-
-# then returns the rows where the condition is TRUE.
+# fish$length_cm > 20 asks which fish are longer than 20 cm.
+# fish[ ... , ] then returns the rows where the condition is TRUE.
 
 # We can use other comparison operators too:
-
-#
-
 # >   greater than
-
 # <   less than
-
 # >=  greater than or equal to
-
 # <=  less than or equal to
-
 # ==  exactly equal to
-
 # !=  not equal to
 
 # For example, fish sampled deeper than 10 meters:
-
 fish[fish$depth_m > 10, ]
 
 # Or fish belonging to the Parrotfish species:
-
 fish[fish$species == "Parrotfish", ]
 
 # Notice that we use == rather than =
-
-#
-
 # = is generally used to assign values to arguments.
-
 # == asks whether two things are equal.
 
 #### YOUR TURN
@@ -272,60 +234,27 @@ fish[fish$species == "Parrotfish", ]
 
 #### FILL IN CODE HERE
 
-# 3. Find all fish that weigh more than 400 grams.
 
-#### FILL IN CODE HERE
 
-# 4. Find all female fish.
-
-#### FILL IN CODE HERE
 
 #### PART 3: FILTERING WITH MULTIPLE CONDITIONS
 
 # What if we want to apply more than one condition?
-
-#
-
 # We can use:
-
-#
-
 # &   means AND
-
 # |   means OR
 
-#
-
-# For example, suppose we want fish that are:
-
-#
-
-# longer than 20 cm AND
-
-# heavier than 400 g
-
+# For example, suppose we want fish that are: longer than 20 cm AND heavier than 400 g
 fish[fish$length_cm > 20 & fish$mass_g > 400, ]
-
 # Both conditions must be TRUE.
 
-# Now suppose we want fish that are:
-
-#
-
-# from Reef A OR
-
-# from Reef B
-
+# Now suppose we want fish that are: from Reef A OR from Reef B
 fish[fish$reef == "Reef A" | fish$reef == "Reef B", ]
-
 # Only one of the conditions needs to be TRUE.
 
 #### YOUR TURN
 
 # Find all fish that:
-
-#
-
 # 1. Are longer than 20 cm AND are female.
 
 #### FILL IN CODE HERE
@@ -338,28 +267,20 @@ fish[fish$reef == "Reef A" | fish$reef == "Reef B", ]
 
 #### FILL IN CODE HERE
 
+
 #### PART 4: SELECTING COLUMNS WITH BASE R
 
 # We have already seen how to select columns using square brackets.
-
-#
-
 # For example:
-
 fish[, c("reef", "species", "length_cm")]
 
 # This is useful when we only want to work with a subset of variables.
 
 # We can also remove columns by using a negative sign.
-
-#
-
 # For example, the following removes the fish_id column:
-
 fish[, -1]
 
 # Or we can remove multiple columns:
-
 fish[, -c(1, 7)]
 
 # This removes columns 1 and 7.
@@ -374,104 +295,53 @@ fish[, -c(1, 7)]
 
 #### FILL IN CODE HERE
 
+
+
 #### PART 5: INTRODUCING dplyr
 
 # We have now used BASE R to:
-
-#
-
 # - Select rows
-
 # - Filter rows
-
 # - Select columns
 
-#
-
 # These operations are extremely important.
-
-#
-
-# But you may have noticed that some of the code becomes difficult
-
-# to read as our questions become more complicated.
-
-#
+# But you may have noticed that some of the code becomes difficult to read as 
+# our questions become more complicated.
 
 # The dplyr package provides functions designed specifically for
-
 # manipulating data frames.
 
-#
-
-# The four functions we will learn today are:
-
-#
-
+# The three functions we will learn today are:
 # filter()   = select rows based on conditions
-
 # select()   = select columns
-
 # arrange()  = sort rows
 
-#
 
-# These functions are part of the "tidyverse" approach to working
-
-# with data in R.
+# These functions are part of the "tidyverse" approach to working with data in R.
+# (so is ggplot 2)
 
 #### FILTERING WITH dplyr
 
 # Let's repeat one of our previous questions:
-
-#
-
 # Which fish are longer than 20 cm?
-
 filter(fish, length_cm > 20)
 
 # Compare this to our base R version:
-
 fish[fish$length_cm > 20, ]
 
 # Both approaches give us the same basic result.
 
-#
-
-# But notice that dplyr allows us to write:
-
-#
-
-# filter(fish, length_cm > 20)
-
-#
-
-# rather than:
-
-#
-
-# fish[fish$length_cm > 20, ]
-
-#
-
 # The dplyr syntax can become easier to read as our analyses get
-
 # more complicated.
-
 # Multiple conditions are also straightforward.
-
 filter(fish, length_cm > 20 & mass_g > 400)
 
 # We can also use OR:
-
 filter(fish, reef == "Reef A" | reef == "Reef B")
 
 #### YOUR TURN
 
 # Repeat the following questions using filter().
-
-#
-
 # 1. Which fish are less than 5 meters deep?
 
 #### FILL IN CODE HERE
@@ -484,22 +354,20 @@ filter(fish, reef == "Reef A" | reef == "Reef B")
 
 #### FILL IN CODE HERE
 
+
+
+
+
 #### SELECTING COLUMNS WITH dplyr
 
 # The select() function allows us to choose columns.
-
 select(fish, reef, species, length_cm)
 
-# Notice that we do not need to use quotation marks around the
-
-# column names.
-
+# Notice that we do not need to use quotation marks around the column names.
 # We can also select columns that are next to one another.
-
 select(fish, reef:depth_m)
 
 # We can remove columns by using a minus sign.
-
 select(fish, -fish_id)
 
 #### YOUR TURN
@@ -516,35 +384,27 @@ select(fish, -fish_id)
 
 #### FILL IN CODE HERE
 
+
+
+
 #### PART 6: ARRANGING DATA
 
 # Another common data-wrangling task is SORTING our observations.
 
-#
-
 # In dplyr, we use arrange().
-
 # For example, let's arrange our fish from shortest to longest.
-
 arrange(fish, length_cm)
-
 # The smallest fish should now appear at the top.
 
 # We can arrange from largest to smallest using desc():
-
 arrange(fish, desc(length_cm))
 
 # We can also arrange by more than one variable.
-
-#
-
 # For example, sort first by reef and then by body length:
-
 arrange(fish, reef, length_cm)
 
-# R sorts by the first variable, then uses the second variable
-
-# to sort observations within the first variable.
+# R sorts by the first variable, then uses the second variable to sort 
+# observations within the first variable.
 
 #### YOUR TURN
 
@@ -562,43 +422,26 @@ arrange(fish, reef, length_cm)
 
 #### FILL IN CODE HERE
 
+
+
+
 #### PART 7: COMBINING dplyr FUNCTIONS
 
-# One of the most useful features of dplyr is that we can combine
-
-# multiple operations.
-
-#
+# One of the most useful features of dplyr is that we can combine multiple operations.
 
 # For example, suppose our research question is:
-
-#
-
 # "Which large parrotfish were found at depths greater than 5 m?"
-
-#
-
-# We can use filter() to identify the fish we want and select()
-
-# to show only the variables that matter.
-
+# We can use filter() to identify the fish we want and select() to show only the
+# variables that matter.
 filter(fish,
        species == "Parrotfish",
        length_cm > 20,
        depth_m > 5)
 
-# Notice that filter() allows us to separate multiple conditions
-
-# with commas.
-
-#
-
-# This is another way of saying that ALL of the conditions must
-
-# be TRUE.
+# Notice that filter() allows us to separate multiple conditions with commas.
+# This is another way of saying that ALL of the conditions must be TRUE.
 
 # We can then use select() after filter():
-
 select(
   filter(fish,
          species == "Parrotfish",
@@ -609,24 +452,15 @@ select(
 
 # This works, but it is starting to become difficult to read.
 
+
+
 #### INTRODUCING THE PIPE: |>
 
-# R provides a useful operator called the PIPE:
-
-#
-
-# |>
-
-#
-
-# The pipe takes the result from one function and passes it into
-
-# the next function.
-
-#
+# R provides a useful operator called the PIPE: |>
+# The pipe takes the result from one function and passes it into the next function.
+# You can think of it as meaning "and then"
 
 # For example:
-
 fish |>
   filter(species == "Parrotfish",
          length_cm > 20,
@@ -634,189 +468,79 @@ fish |>
   select(fish_id, reef, depth_m, length_cm, mass_g)
 
 # Read this from top to bottom:
-
-#
-
 # Start with fish
-
-# ↓
-
+# ↓ AND THEN
 # Filter for parrotfish longer than 20 cm and deeper than 5 m
-
-# ↓
-
+# ↓ AND THEN
 # Select the variables we want to see
 
 # This way of writing code is extremely common in modern R.
-
-#
-
-# It allows us to write our data-wrangling workflow almost like
-
-# a series of instructions.
+# It allows us to write our data-wrangling workflow almost like a series of instructions.
 
 # We can also arrange the resulting data.
-
 fish |>
   filter(species == "Parrotfish") |>
   select(fish_id, reef, length_cm, mass_g) |>
   arrange(desc(mass_g))
 
 # This asks:
-
-#
-
 # 1. Start with the fish dataset.
-
+# AND THEN
 # 2. Keep only parrotfish.
-
+# AND THEN
 # 3. Keep only the selected columns.
-
+# AND THEN
 # 4. Sort from largest to smallest.
 
 #### YOUR TURN
 
 # Use a combination of filter(), select(), arrange(), and |> to
-
 # answer the following questions.
 
 # RESEARCH QUESTION 1:
-
-#
-
 # Which female fish are longer than 20 cm?
 
-#
-
 # Your final result should show:
-
 # fish_id
-
 # reef
-
 # species
-
 # length_cm
-
 # mass_g
-
-#
 
 #### FILL IN CODE HERE
 
 # RESEARCH QUESTION 2:
-
-#
-
-# Which fish were found deeper than 10 m and had a grazing rate
-
-# greater than 6?
-
-#
-
+# Which fish were found deeper than 10 m and had a grazing rate greater than 6?
 # Arrange your results from highest to lowest grazing rate.
-
-#
-
 # Your final result should show:
-
 # fish_id
-
 # reef
-
 # species
-
 # depth_m
-
 # grazing_rate
-
-#
 
 #### FILL IN CODE HERE
 
 # RESEARCH QUESTION 3:
-
-#
-
 # Which parrotfish were found in seagrass habitat?
-
-#
-
 # Arrange the results from largest to smallest body mass.
-
-#
-
 # Your final result should show:
-
 # fish_id
-
 # reef
-
 # habitat
-
 # length_cm
-
 # mass_g
 
-#
-
 #### FILL IN CODE HERE
+
 
 #### PART 8: BASE R vs. dplyr
 
 # We have now learned that there are often multiple ways to accomplish
-
 # the same task in R.
-
-#
-
-# Let's compare some of them.
-
-# FILTERING
-
-#
-
-# BASE R:
-
-fish[fish$length_cm > 20, ]
-
-# dplyr:
-
-filter(fish, length_cm > 20)
-
-# SELECTING COLUMNS
-
-#
-
-# BASE R:
-
-fish[, c("reef", "species", "length_cm")]
-
-# dplyr:
-
-select(fish, reef, species, length_cm)
-
-# ARRANGING
-
-#
-
-# BASE R has several ways to sort data, but one common approach is
-
-# to use order():
-
-fish[order(fish$length_cm), ]
-
-# dplyr:
-
-arrange(fish, length_cm)
-
 # The goal is NOT to memorize every possible way of doing something.
 
-#
-
 # Instead, the important thing is to understand the underlying task:
-
-#
 
 # "I want these rows."
 
@@ -824,110 +548,5 @@ arrange(fish, length_cm)
 
 # "I want these observations sorted this way."
 
-#### FINAL EXERCISE
-
-# Imagine that you are analyzing a reef fish survey and want to
-
-# investigate whether larger herbivorous fish are concentrated
-
-# in particular habitats.
-
-#
-
-# Use the skills you learned today to investigate the dataset.
-
-# 1. Find all fish with a grazing rate greater than 6.
-
-#
-
-# What percentage of the dataset meets this criterion?
-
-#
-
-# HINT:
-
-# You can use nrow() to count the number of rows in your filtered
-
-# dataset.
-
-#### FILL IN CODE HERE
-
-# WRITE YOUR ANSWER HERE
-
-# 2. Which species has the largest individual fish?
-
-#
-
-# Use arrange() to help answer this question.
-
-#### FILL IN CODE HERE
-
-# WRITE YOUR ANSWER HERE
-
-# 3. Find all fish that were sampled in seagrass habitat.
-
-#
-
-# How many fish were sampled in seagrass habitat?
-
-#### FILL IN CODE HERE
-
-# WRITE YOUR ANSWER HERE
-
-# 4. Find all female parrotfish longer than 20 cm.
-
-#
-
-# Arrange them from largest to smallest.
-
-#### FILL IN CODE HERE
-
-# WRITE YOUR ANSWER HERE
-
-# 5. Now investigate whether large fish tend to occur in particular
-
-# habitats.
-
-#
-
-# Define "large fish" however you think is appropriate.
-
-#
-
-# Use filter(), select(), and arrange() to explore the data.
-
-#### FILL IN CODE HERE
-
-# WRITE YOUR ANSWER HERE
-
-# 6. Based on your exploration, what ecological question could you
-
-# investigate using statistical analysis?
-
-#### WRITE YOUR ANSWER HERE
-
-#### REFLECTION
-
-# 1. What is the difference between FILTERING rows and SELECTING columns?
-
-# WRITE YOUR ANSWER HERE
-
-# 2. When would you want to use indexing with square brackets?
-
-# WRITE YOUR ANSWER HERE
-
-# 3. What is one advantage of using dplyr functions compared with
-
-# base R indexing?
-
-# WRITE YOUR ANSWER HERE
-
-# 4. In your own words, what does the pipe operator |> do?
-
-# WRITE YOUR ANSWER HERE
-
-# 5. Which approach—base R or dplyr—do you currently find easier
-
-# to understand? Why?
-
-# WRITE YOUR ANSWER HERE
+# If you are unsure where to begin when you are coding try saying what you want
+# in words, then translating that into code based on the skills we are learning.
