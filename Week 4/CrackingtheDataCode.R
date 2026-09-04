@@ -16,33 +16,45 @@
 
 # The first group to crack the code gets a prize!
 
-#load the data
+
+
+#load the data (update with your file path)
 crack <- read.csv("YOURFILEPATHHERE/crackingthedatacode.csv")
 
-# Task 1: Sort the dataframe alphabetically in reverse based on the yel column,
-# then isolate only the yel column, and extract the data in the first row.
 
-pw1 <- crack |> arrange(desc(yel)) |> select(yel) |> head(1) # ENTER CODE HERE TO ACCOMPLISH THE TASK
+
+# Task 1: Sort the dataframe alphabetically in reverse based on the yel column,
+# then isolate only the yel column, and extract the data in the first row. Assign
+# the resulting data to an object called "pw1".
+
+# ENTER CODE HERE TO ACCOMPLISH THE TASK
   
 
 # Task 2: Find the twenty-fourth element in the names of the dataset columns.
-pw2 <- names(crack)[24]# ENTER CODE HERE TO ACCOMPLISH THE TASK
+# Assign the resulting data to an object called "pw2".
+
+# ENTER CODE HERE TO ACCOMPLISH THE TASK
   
   
 # Task 3: Select rows where blu6 column is 826 and the pura column is 652 then 
-# find the value in the blu column
-pw3 <- crack |> filter(blu6 == 826 & pura == 652) |> select(blu) # ENTER CODE HERE TO ACCOMPLISH THE TASK
+# find the value in the blu column. Assign the resulting data to an object 
+# called "pw3".
+
+# ENTER CODE HERE TO ACCOMPLISH THE TASK
   
 
-# Task 4: Find the value recorded in the 787th row and the 30th column
-pw4 <- crack[787, 30]# ENTER CODE HERE TO ACCOMPLISH THE TASK
-  
+# Task 4: Find the value recorded in the 787th row and the 30th column.
+# Assign the resulting data to an object called "pw4".
+
+# ENTER CODE HERE TO ACCOMPLISH THE TASK
+
 
 # Task 5: Filter so the reta column is at least 0.75 , the sew14 column is at most 
 # 100, the ret14 column is less than -1, the yel8 column is "lec", and the blu6 
 # column doesn't exceed 500. Divide the value of the blua column by 3.
-pw5 <-  filter(crack, reta > .75, sew14 <100, ret14 < -1, yel8 == "lec", blu6 <500) |> 
-  select(blua)/3# ENTER CODE HERE TO ACCOMPLISH THE TASK
+# Assign the resulting data to an object called "pw5".
+
+# ENTER CODE HERE TO ACCOMPLISH THE TASK
   
   
   
