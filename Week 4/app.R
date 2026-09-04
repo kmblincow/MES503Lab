@@ -75,7 +75,7 @@ login_ui <- div(
 
 main_app_ui <- navbarPage(
   
-  title = "My Secured Shiny App",
+  title = "Cracking the Data Code",
   
   tabPanel(
     
