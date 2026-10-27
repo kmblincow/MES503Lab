@@ -24,15 +24,15 @@ answer_key <- list(
 
 rooms <- list(
   list(number=1, title = "Blackwater Manor", image="manor.jpg",
-       scene="Blackwater Manor looms large in front of you. You start to question whether this is a good idea as you hear scurrying sounds from behind a window. You are definitely reconsidering your choice to come here at night... But you and your research team are determined to find out what Dr. Wren discovered the fateful night he disappeared. You enter the manor.",
+       scene="Blackwater Manor looms large in front of you. You are beginning to question whether this is a good idea as you hear scurrying sounds from behind a window. You are definitely reconsidering your choice to come here at night... But you and your research team are determined to find out what Dr. Wren discovered. You enter the manor.",
        puzzle_title="Enter Blackwater Manor",
        puzzle="Click on the stars to investigate the environment. When you're ready to enter, type 'ENTER' into the 'Your answer:' box.",
        hint="Type 'ENTER' into the 'Your answer:' box.",
-       hotspots=list(list(id="lower_window",label="Lower window",x=60,y=63,message="You peek through the window a see a flash of blue light and hear something scurrying across the room."),
+       hotspots=list(list(id="lower_window",label="Lower window",x=60,y=63,message="You peek through the window and see a flash of blue light and hear something scurrying across the room."),
                      list(id="entrance_door",label="Front door",x=55,y=63,message="The door appears to be unlocked. Are you brave enough to enter?")
        )),
   list(number=2, title="The Entrance Hall", image="EntranceHall.jpg",
-       scene="The front door slams shut behind you. Dust hangs in the air, and salt-stained portraits watch over a grand entrance hall. Candles light of their own accord throughout the room. A notebook lies open on a side table. The notebook pages start flicking rapidly until they eventually settle on a page depicting a data table. Your team quickly digitizes the data: wren_initial_observations.csv",
+       scene="The front door slams shut behind you. Dust hangs in the air, and salt-stained portraits watch over a grand entrance hall. Candles light of their own accord throughout the room in what will prove to be the first of many supernatural occurrences this night. A notebook lies open on a side table. The notebook pages start flicking rapidly until they eventually settle on a page depicting a data table. Your team quickly digitizes the data: wren_initial_observations.csv",
        puzzle_title="The Observation That Doesn't Belong",
        puzzle="Inspect wren_initial_observations.csv in R and identify the observation that is inconsistent with the others. Enter its observation ID to access the next room.",
        hint="Compare the values across observations. Look for a row whose measurements are wildly inconsistent with the rest.",
@@ -42,7 +42,7 @@ rooms <- list(
          list(id="entrance_door",label="Front door",x=49,y=70,message="The door will not budge. Whatever happened here, the only way out may be forward.")
        )),
   list(number=3, title="The Library", image="Library.jpg",
-       scene="Tall shelves lean beneath the weight of marine biology texts. Specimen catalogs and handwritten notes cover a reading table. A faint blue glow flickers between the pages of an open ledger. When you turn to that page you see a note written by the ghost of Dr. Wren: 'Identify the organism I studied most and filter for my fifth level study to discover notes on what I was working on before my disappearance. The name of this species will take you deeper into my home and into the mystery of my demise.'",
+       scene="Tall shelves lean beneath the weight of marine biology texts. Specimen catalogs and handwritten notes cover a reading table. A faint blue glow flickers between the pages of an open ledger. When you turn to that page you see a note written, could it be from the ghost of Dr. Wren?: 'Identify the organism I studied most and filter for my fifth level study to discover notes on what I was working on before my disappearance. The name of this species will take you deeper into my home and into the mystery of my demise.'",
        puzzle_title="A Name Buried in the Records",
        puzzle="Using wren_research_studies.csv, identify the species Dr. Wren studied the most, then filter for level 5 studies of this species. The study notes will give a hint as to where we are headed. Enter the species name to advance to the next room.",
        hint="Check spelling carefully. The species name has a genus and a species.",
@@ -54,7 +54,7 @@ rooms <- list(
   list(number=4, title="The Specimen Room", image="SpecimenRoom.png",
        scene="Glass jars line the walls. Some contain only cloudy seawater; others pulse with a dim blue light. On the floor, the remains of a large aquarium glitter beneath a trail of wet marks. A note under a poster of growth rate reads:
 'The growth rate was stable for days. Then something changed.
-I recorded the growth even as I realized it was becoming dangerous. The first sign that things might get out of control was when growth exceeded 5 mm/day. Visualize the data to evaluate my temperature hypothesis and find the date of the first observation that crossed the threshold. This date holds the key to the mystery.' You find the data he wrote about and digitize it: wren_growth_timeseries.csv.
+I recorded the growth even as I realized it was becoming dangerous. The first sign that things might get out of control was when growth exceeded 5 mm/day. I visualized the data to evaluate my temperature hypothesis and found the date of the first observation that crossed the threshold. This date holds the key to the mystery.' You find the data he wrote about and digitize it: wren_growth_timeseries.csv.
 ",
        puzzle_title="The Temperature Threshold",
        puzzle="Using wren_growth_timeseries.csv, plot growth rate over time, coloring points based on temperature, and add a horizontal line at 5 mm/day. Find the first date on which growth exceeded this threshold. Enter the date as YYYY-MM-DD.",
@@ -67,8 +67,8 @@ I recorded the growth even as I realized it was becoming dangerous. The first si
   list(number=5, title="The Laboratory", image="Lab.png",
        scene="The laboratory smells of salt, rust, and something faintly sweet. Four experimental tanks stand beneath a bank of old instruments. Labels identify different combinations of temperature and nutrients. A research note reads:
 'Temperature alone has not explained the observations. I examined the nutrient treatments next.
-The nutrient-rich tanks appeared to contain rapidly growing specimens, but visual inspection was not sufficient. I ran a test to determine whether mean growth rate differed between the nutrient treatments. Demonstrate your worthiness to learn what happened to me by running a statistical test and showing me how you would report the p-value.'
-You find a dataset of experimental growth measurements that you digitize: wren_growth_experiment.csv 
+The nutrient-rich tanks appeared to contain rapidly growing specimens, but visual inspection was not sufficient. I ran a test to determine whether mean growth rate differed between the nutrient treatments.' Suddenly, a disembodied voice echoes throughout the room: 'Demonstrate your worthiness to learn what happened to me by running a statistical test and showing me how you would report the p-value.'
+After gathering yourself, you find a dataset of experimental growth measurements that you digitize: wren_growth_experiment.csv 
 ",
        puzzle_title="The Nutrient Hypothesis",
        puzzle="Use the wren_growth_experiment.csv data to perform a statistical test to determine whether growth rate differs between nutrient treatments. Based on the results of your test, input how you would report the p value (e.g. p = .589).",
@@ -79,9 +79,9 @@ You find a dataset of experimental growth measurements that you digitize: wren_g
          list(id="lab_notebook",label="Research notebook",x=20,y=55,message="A note reads: ‘Nutrients appear to matter, but this analysis ignores temperature. I must test the conditions together.’")
        )),
   list(number=6, title="The Ghost's Study", image="ghost_study.png",
-       scene="The study is almost completely dark. Papers cover the desk, and a cracked aquarium sits beside an abandoned computer. A research note lies beneath a deep gouge in the wood: 'Temperature alone did not explain the growth. Nutrients alone did not explain the growth.
-What happens when both conditions occur together?
-The answer to my mystery will be revealed if you can tell me about a statistical model that excels at combining nutrients and temperature to explain the growth rates I observed.' You digitize the accompanying dataset: wren_final_experiment.csv.
+       scene="The study is almost completely dark. Papers cover the desk, and a cracked aquarium sits on its corner. A research note lies beneath a deep gouge in the wood: 'Temperature alone did not explain the growth. Nutrients alone did not explain the growth.
+What happens when both conditions occur together?' The disembodied voice is now accompanied with a spectral vision of Dr. Wren himself. He says,
+'The answer to my mystery will be revealed if you can tell me about a statistical model that excels at combining nutrients and temperature to explain the growth rates I observed.' He then fades into nothingness. You digitize the accompanying dataset: wren_final_experiment.csv.
 " ,
        puzzle_title="The Final Interaction",
        puzzle="Fit two models using temperature and nutrients to predict growth rate. Enter the character you used to connect the explanatory varaiables in the syntax of the 'best' model (i.e. * or +).",
@@ -252,7 +252,7 @@ server <- function(input, output, session) {
     )
     if (correct) {
       messages <- c(
-        "",
+        "You and your research team step inside Blackwater Manor.",
         "Correct. A door swings open, revealing a library.",
         "Correct. A hidden latch clicks behind the specimen catalog. You walk through the hidden door to find a room full of specimens.",
         "Correct. A door you didn't notice before unlocks with a heavy metallic sound and leads you to a research laboratory.",
