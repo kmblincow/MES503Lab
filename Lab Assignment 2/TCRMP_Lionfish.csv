@@ -1,0 +1,353 @@
+"Location","SampleYear","TotalCount","ntrans","Biomass","Code","Island","ReefComplex","Depth"
+"College Shoal East",2011,5,10,88.1048191985232,"CSE","STT","Mesophotic",30
+"Grammanik Tiger FSA",2011,9,10,162.274511074741,"GKT","STT","Mesophotic",38
+"Lang Bank Red Hind FSA",2011,3,10,52.8628915191139,"LBH","STX","Mesophotic",33
+"Cane Bay Deep",2011,0,6,0,"CBD","STX","Mesophotic",38
+"Hind Bank East FSA",2011,0,8,0,"HBE","STT","Mesophotic",39
+"Lang Bank EEMP",2011,0,10,0,"LBP","STX","Mesophotic",27
+"Salt River Deep",2011,0,10,0,"SRD","STX","Mesophotic",30
+"College Shoal East",2012,3,10,115.582617799167,"CSE","STT","Mesophotic",30
+"Ginsburg Fringe",2012,1,2,18.9197526419551,"GBF","STT","Mesophotic",63
+"Grammanik Tiger FSA",2012,16,10,572.895917920453,"GKT","STT","Mesophotic",38
+"Hind Bank East FSA",2012,8,10,176.316865019355,"HBE","STT","Mesophotic",39
+"Lang Bank EEMP",2012,4,10,56.646842047505,"LBP","STX","Mesophotic",27
+"Lang Bank Red Hind FSA",2012,4,10,39.4274468630846,"LBH","STX","Mesophotic",33
+"Cane Bay Deep",2012,0,10,0,"CBD","STX","Mesophotic",38
+"Salt River Deep",2012,0,10,0,"SRD","STX","Mesophotic",30
+"College Shoal East",2013,4,8,53.5122859202392,"CSE","STT","Mesophotic",30
+"Ginsburg Fringe",2013,3,3,130.086260692668,"GBF","STT","Mesophotic",63
+"Grammanik Tiger FSA",2013,20,10,200.515585013935,"GKT","STT","Mesophotic",38
+"Hind Bank East FSA",2013,17,12,293.437445634264,"HBE","STT","Mesophotic",39
+"Lang Bank EEMP",2013,5,10,105.627669027236,"LBP","STX","Mesophotic",27
+"Lang Bank Red Hind FSA",2013,2,9,0.892374789520659,"LBH","STX","Mesophotic",33
+"Cane Bay Deep",2013,0,10,0,"CBD","STX","Mesophotic",38
+"Salt River Deep",2013,0,10,0,"SRD","STX","Mesophotic",30
+"College Shoal East",2014,10,10,208.176410825657,"CSE","STT","Mesophotic",30
+"Ginsburg Fringe",2014,9,5,96.4001077714391,"GBF","STT","Mesophotic",63
+"Grammanik Tiger FSA",2014,21,10,322.063860423341,"GKT","STT","Mesophotic",38
+"Hind Bank East FSA",2014,33,10,562.099817055301,"HBE","STT","Mesophotic",39
+"Lang Bank EEMP",2014,7,7,651.168976138646,"LBP","STX","Mesophotic",27
+"Lang Bank Red Hind FSA",2014,2,7,95.1454154563366,"LBH","STX","Mesophotic",33
+"Salt River Deep",2014,1,10,3.78395052839102,"SRD","STX","Mesophotic",30
+"Cane Bay Deep",2014,0,10,0,"CBD","STX","Mesophotic",38
+"College Shoal East",2015,6,10,64.214743104287,"CSE","STT","Mesophotic",30
+"Ginsburg Fringe",2015,23,4,1206.86310165714,"GBF","STT","Mesophotic",63
+"Grammanik Tiger FSA",2015,14,10,198.717113545409,"GKT","STT","Mesophotic",38
+"Hind Bank East FSA",2015,42,10,571.256817772715,"HBE","STT","Mesophotic",39
+"Lang Bank EEMP",2015,1,11,16.0190580360951,"LBP","STX","Mesophotic",27
+"Lang Bank Red Hind FSA",2015,1,10,0.401568655284296,"LBH","STX","Mesophotic",33
+"Salt River Deep",2015,5,10,12.1549888957417,"SRD","STX","Mesophotic",30
+"Cane Bay Deep",2015,0,10,0,"CBD","STX","Mesophotic",38
+"Cane Bay Deep",2016,2,10,35.2419276794093,"CBD","STX","Mesophotic",38
+"College Shoal East",2016,5,10,57.0484107027893,"CSE","STT","Mesophotic",30
+"Grammanik Tiger FSA",2016,10,10,176.209638397046,"GKT","STT","Mesophotic",38
+"Hind Bank East FSA",2016,38,10,660.655236517437,"HBE","STT","Mesophotic",39
+"Lang Bank EEMP",2016,2,10,66.6017908194356,"LBP","STX","Mesophotic",27
+"Lang Bank Red Hind FSA",2016,10,10,225.69926065437,"LBH","STX","Mesophotic",33
+"Salt River Deep",2016,0,10,0,"SRD","STX","Mesophotic",30
+"College Shoal East",2017,13,10,146.050450048279,"CSE","STT","Mesophotic",30
+"Grammanik Tiger FSA",2017,7,8,154.183433597416,"GKT","STT","Mesophotic",38
+"Hind Bank East FSA",2017,18,10,84.0049966327959,"HBE","STT","Mesophotic",39
+"Lang Bank EEMP",2017,1,9,4.20438947599003,"LBP","STX","Mesophotic",27
+"Lang Bank Red Hind FSA",2017,2,10,21.4049143680957,"LBH","STX","Mesophotic",33
+"Salt River Deep",2017,3,10,25.1888648964867,"SRD","STX","Mesophotic",30
+"Cane Bay Deep",2017,0,10,0,"CBD","STX","Mesophotic",38
+"Buck Island STX Deep",2018,5,10,43.2113973914756,"BID","STX","Mesophotic",33
+"Cane Bay Deep",2018,3,10,21.80648302338,"CBD","STX","Mesophotic",38
+"College Shoal East",2018,11,10,124.645535680183,"CSE","STT","Mesophotic",30
+"Grammanik Tiger FSA",2018,15,10,198.815227556401,"GKT","STT","Mesophotic",38
+"Hind Bank East FSA",2018,21,10,294.389833800714,"HBE","STT","Mesophotic",39
+"Salt River Deep",2018,3,10,21.80648302338,"SRD","STX","Mesophotic",30
+"Ginsburg Fringe",2018,0,2,0,"GBF","STT","Mesophotic",63
+"Lang Bank EEMP",2018,0,10,0,"LBP","STX","Mesophotic",27
+"Lang Bank Red Hind FSA",2018,0,10,0,"LBH","STX","Mesophotic",33
+"Buck Island STX Deep",2019,4,9,59.1827335271091,"BID","STX","Mesophotic",33
+"College Shoal East",2019,3,9,78.2063792753629,"CSE","STT","Mesophotic",30
+"Ginsburg Fringe",2019,4,1,704.838553588186,"GBF","STT","Mesophotic",63
+"Grammanik Tiger FSA",2019,21,9,392.693026181519,"GKT","STT","Mesophotic",38
+"Hind Bank East FSA",2019,15,9,278.645443253943,"HBE","STT","Mesophotic",39
+"Lang Bank Red Hind FSA",2019,2,9,39.1576974215659,"LBH","STX","Mesophotic",33
+"Cane Bay Deep",2019,0,9,0,"CBD","STX","Mesophotic",38
+"Lang Bank EEMP",2019,0,9,0,"LBP","STX","Mesophotic",27
+"Salt River Deep",2019,0,9,0,"SRD","STX","Mesophotic",30
+"Buck Island STX Deep",2020,4,9,113.159687220939,"BID","STX","Mesophotic",33
+"Cane Bay Deep",2020,1,9,19.5788487107829,"CBD","STX","Mesophotic",38
+"College Shoal East",2020,8,9,110.507411981885,"CSE","STT","Mesophotic",30
+"Grammanik Tiger FSA",2020,5,9,152.208369074736,"GKT","STT","Mesophotic",38
+"Hind Bank East FSA",2020,20,9,314.704678041694,"HBE","STT","Mesophotic",39
+"Salt River Deep",2020,5,9,21.0219473799501,"SRD","STX","Mesophotic",30
+"Lang Bank EEMP",2020,0,9,0,"LBP","STX","Mesophotic",27
+"Lang Bank Red Hind FSA",2020,0,9,0,"LBH","STX","Mesophotic",33
+"Buck Island STX Deep",2021,5,9,67.1453250843289,"BID","STX","Mesophotic",33
+"Cane Bay Deep",2021,1,9,4.20438947599003,"CBD","STX","Mesophotic",38
+"College Shoal East",2021,22,9,219.587616258345,"CSE","STT","Mesophotic",30
+"Grammanik Tiger FSA",2021,8,9,64.384034277506,"GKT","STT","Mesophotic",38
+"Hind Bank East FSA",2021,6,9,71.3497145603189,"HBE","STT","Mesophotic",39
+"Lang Bank EEMP",2021,1,9,19.5788487107829,"LBP","STX","Mesophotic",27
+"Lang Bank Red Hind FSA",2021,5,9,167.582828309529,"LBH","STX","Mesophotic",33
+"Salt River Deep",2021,1,9,4.20438947599003,"SRD","STX","Mesophotic",30
+"Buck Island STX Deep",2022,1,9,4.20438947599003,"BID","STX","Mesophotic",33
+"Cane Bay Deep",2022,1,9,4.20438947599003,"CBD","STX","Mesophotic",38
+"College Shoal East",2022,17,9,194.470294970174,"CSE","STT","Mesophotic",30
+"Hind Bank East FSA",2022,6,9,71.3497145603189,"HBE","STT","Mesophotic",39
+"Lang Bank EEMP",2022,1,9,4.20438947599003,"LBP","STX","Mesophotic",27
+"Lang Bank Red Hind FSA",2022,3,9,78.2063792753629,"LBH","STX","Mesophotic",33
+"Salt River Deep",2022,1,9,19.5788487107829,"SRD","STX","Mesophotic",30
+"Grammanik Tiger FSA",2022,0,9,0,"GKT","STT","Mesophotic",38
+"Kings Corner",2011,1,10,3.78395052839102,"KGC","STX","Nearshore",17
+"Black Point",2011,0,10,0,"BPT","STT","Nearshore",9
+"Brewers Bay",2011,0,10,0,"BWR","STT","Nearshore",6
+"Cane Bay",2011,0,6,0,"CBS","STX","Nearshore",10
+"Coculus Rock",2011,0,10,0,"CKR","STT","Nearshore",7
+"Great Pond",2011,0,10,0,"GRP","STX","Nearshore",6
+"Jacks Bay",2011,0,10,0,"JKB","STX","Nearshore",14
+"Salt River West",2011,0,10,0,"SRW","STX","Nearshore",11
+"Sprat Hole",2011,0,10,0,"SPH","STX","Nearshore",8
+"Black Point",2012,1,11,16.0190580360951,"BPT","STT","Nearshore",9
+"Brewers Bay",2012,1,10,105.457074199199,"BWR","STT","Nearshore",6
+"Kings Corner",2012,4,10,42.8098287361913,"KGC","STX","Nearshore",17
+"Sprat Hole",2012,2,10,21.4049143680957,"SPH","STX","Nearshore",8
+"Botany Bay",2012,0,10,0,"BTY","STT","Nearshore",8
+"Cane Bay",2012,0,10,0,"CBS","STX","Nearshore",10
+"Coculus Rock",2012,0,10,0,"CKR","STT","Nearshore",7
+"Great Pond",2012,0,10,0,"GRP","STX","Nearshore",6
+"Jacks Bay",2012,0,10,0,"JKB","STX","Nearshore",14
+"Magens Bay",2012,0,10,0,"MGN","STT","Nearshore",7
+"Salt River West",2012,0,9,0,"SRW","STX","Nearshore",11
+"Kings Corner",2013,2,12,43.970647923435,"KGC","STX","Nearshore",17
+"Black Point",2013,0,10,0,"BPT","STT","Nearshore",9
+"Botany Bay",2013,0,10,0,"BTY","STT","Nearshore",8
+"Brewers Bay",2013,0,10,0,"BWR","STT","Nearshore",6
+"Cane Bay",2013,0,10,0,"CBS","STX","Nearshore",10
+"Coculus Rock",2013,0,10,0,"CKR","STT","Nearshore",7
+"Great Pond",2013,0,11,0,"GRP","STX","Nearshore",6
+"Jacks Bay",2013,0,12,0,"JKB","STX","Nearshore",14
+"Magens Bay",2013,0,10,0,"MGN","STT","Nearshore",7
+"Salt River West",2013,0,10,0,"SRW","STX","Nearshore",11
+"Sprat Hole",2013,0,10,0,"SPH","STX","Nearshore",8
+"Black Point",2014,2,10,18.0225324949889,"BPT","STT","Nearshore",9
+"Kings Corner",2014,4,10,11.7534202404574,"KGC","STX","Nearshore",17
+"Sprat Hole",2014,2,10,0.415041370481323,"SPH","STX","Nearshore",8
+"Botany Bay",2014,0,11,0,"BTY","STT","Nearshore",8
+"Brewers Bay",2014,0,10,0,"BWR","STT","Nearshore",6
+"Cane Bay",2014,0,10,0,"CBS","STX","Nearshore",10
+"Coculus Rock",2014,0,10,0,"CKR","STT","Nearshore",7
+"Great Pond",2014,0,8,0,"GRP","STX","Nearshore",6
+"Jacks Bay",2014,0,10,0,"JKB","STX","Nearshore",14
+"Magens Bay",2014,0,9,0,"MGN","STT","Nearshore",7
+"Salt River West",2014,0,11,0,"SRW","STX","Nearshore",11
+"Black Point",2015,1,10,0.401568655284296,"BPT","STT","Nearshore",9
+"Kings Corner",2015,5,9,51.770865849536,"KGC","STX","Nearshore",17
+"Botany Bay",2015,0,9,0,"BTY","STT","Nearshore",8
+"Brewers Bay",2015,0,10,0,"BWR","STT","Nearshore",6
+"Cane Bay",2015,0,10,0,"CBS","STX","Nearshore",10
+"Coculus Rock",2015,0,10,0,"CKR","STT","Nearshore",7
+"Great Pond",2015,0,10,0,"GRP","STX","Nearshore",6
+"Jacks Bay",2015,0,10,0,"JKB","STX","Nearshore",14
+"Magens Bay",2015,0,10,0,"MGN","STT","Nearshore",7
+"Salt River West",2015,0,10,0,"SRW","STX","Nearshore",11
+"Sprat Hole",2015,0,10,0,"SPH","STX","Nearshore",8
+"Kings Corner",2016,12,10,52.0915599657052,"KGC","STX","Nearshore",17
+"Sprat Hole",2016,4,10,56.646842047505,"SPH","STX","Nearshore",8
+"Black Point",2016,0,10,0,"BPT","STT","Nearshore",9
+"Botany Bay",2016,0,10,0,"BTY","STT","Nearshore",8
+"Brewers Bay",2016,0,10,0,"BWR","STT","Nearshore",6
+"Cane Bay",2016,0,10,0,"CBS","STX","Nearshore",10
+"Coculus Rock",2016,0,10,0,"CKR","STT","Nearshore",7
+"Great Pond",2016,0,10,0,"GRP","STX","Nearshore",6
+"Jacks Bay",2016,0,10,0,"JKB","STX","Nearshore",14
+"Magens Bay",2016,0,10,0,"MGN","STT","Nearshore",7
+"Salt River West",2016,0,10,0,"SRW","STX","Nearshore",11
+"Botany Bay",2017,6,10,36.5407164816598,"BTY","STT","Nearshore",8
+"Brewers Bay",2017,1,10,17.6209638397046,"BWR","STT","Nearshore",6
+"Kings Corner",2017,2,10,21.4049143680957,"KGC","STX","Nearshore",17
+"Magens Bay",2017,2,10,7.56790105678205,"MGN","STT","Nearshore",7
+"Black Point",2017,0,10,0,"BPT","STT","Nearshore",9
+"Cane Bay",2017,0,10,0,"CBS","STX","Nearshore",10
+"Coculus Rock",2017,0,10,0,"CKR","STT","Nearshore",7
+"Great Pond",2017,0,9,0,"GRP","STX","Nearshore",6
+"Jacks Bay",2017,0,10,0,"JKB","STX","Nearshore",14
+"Salt River West",2017,0,10,0,"SRW","STX","Nearshore",11
+"Sprat Hole",2017,0,10,0,"SPH","STX","Nearshore",8
+"Black Point",2018,1,10,3.78395052839102,"BPT","STT","Nearshore",9
+"Coculus Rock",2018,1,10,3.78395052839102,"CKR","STT","Nearshore",7
+"Kings Corner",2018,1,10,3.78395052839102,"KGC","STX","Nearshore",17
+"Botany Bay",2018,0,10,0,"BTY","STT","Nearshore",8
+"Brewers Bay",2018,0,11,0,"BWR","STT","Nearshore",6
+"Cane Bay",2018,0,10,0,"CBS","STX","Nearshore",10
+"Great Pond",2018,0,10,0,"GRP","STX","Nearshore",6
+"Jacks Bay",2018,0,10,0,"JKB","STX","Nearshore",14
+"Magens Bay",2018,0,10,0,"MGN","STT","Nearshore",7
+"Salt River West",2018,0,10,0,"SRW","STX","Nearshore",11
+"Sprat Hole",2018,0,10,0,"SPH","STX","Nearshore",8
+"Black Point",2019,0,9,0,"BPT","STT","Nearshore",9
+"Botany Bay",2019,0,9,0,"BTY","STT","Nearshore",8
+"Brewers Bay",2019,0,9,0,"BWR","STT","Nearshore",6
+"Cane Bay",2019,0,9,0,"CBS","STX","Nearshore",10
+"Coculus Rock",2019,0,9,0,"CKR","STT","Nearshore",7
+"Great Pond",2019,0,9,0,"GRP","STX","Nearshore",6
+"Jacks Bay",2019,0,9,0,"JKB","STX","Nearshore",14
+"Kings Corner",2019,0,9,0,"KGC","STX","Nearshore",17
+"Magens Bay",2019,0,9,0,"MGN","STT","Nearshore",7
+"Salt River West",2019,0,9,0,"SRW","STX","Nearshore",11
+"Sprat Hole",2019,0,9,0,"SPH","STX","Nearshore",8
+"Botany Bay",2020,2,9,8.40877895198005,"BTY","STT","Nearshore",8
+"Kings Corner",2020,1,9,19.5788487107829,"KGC","STX","Nearshore",17
+"Magens Bay",2020,1,9,4.20438947599003,"MGN","STT","Nearshore",7
+"Salt River West",2020,1,9,4.20438947599003,"SRW","STX","Nearshore",11
+"Black Point",2020,0,9,0,"BPT","STT","Nearshore",9
+"Brewers Bay",2020,0,9,0,"BWR","STT","Nearshore",6
+"Cane Bay",2020,0,9,0,"CBS","STX","Nearshore",10
+"Coculus Rock",2020,0,9,0,"CKR","STT","Nearshore",7
+"Great Pond",2020,0,9,0,"GRP","STX","Nearshore",6
+"Jacks Bay",2020,0,9,0,"JKB","STX","Nearshore",14
+"Sprat Hole",2020,0,9,0,"SPH","STX","Nearshore",8
+"Jacks Bay",2021,1,9,4.20438947599003,"JKB","STX","Nearshore",14
+"Kings Corner",2021,1,9,4.20438947599003,"KGC","STX","Nearshore",17
+"Sprat Hole",2021,3,9,27.987627662763,"SPH","STX","Nearshore",8
+"Black Point",2021,0,9,0,"BPT","STT","Nearshore",9
+"Botany Bay",2021,0,9,0,"BTY","STT","Nearshore",8
+"Brewers Bay",2021,0,9,0,"BWR","STT","Nearshore",6
+"Cane Bay",2021,0,9,0,"CBS","STX","Nearshore",10
+"Coculus Rock",2021,0,9,0,"CKR","STT","Nearshore",7
+"Great Pond",2021,0,9,0,"GRP","STX","Nearshore",6
+"Jacks Bay",2021,0,1,0,"JKB","STX","Nearshore",14
+"Magens Bay",2021,0,9,0,"MGN","STT","Nearshore",7
+"Salt River West",2021,0,9,0,"SRW","STX","Nearshore",11
+"Botany Bay",2022,1,9,54.4231410885899,"BTY","STT","Nearshore",8
+"Kings Corner",2022,1,9,4.20438947599003,"KGC","STX","Nearshore",17
+"Black Point",2022,0,9,0,"BPT","STT","Nearshore",9
+"Brewers Bay",2022,0,9,0,"BWR","STT","Nearshore",6
+"Cane Bay",2022,0,9,0,"CBS","STX","Nearshore",10
+"Coculus Rock",2022,0,9,0,"CKR","STT","Nearshore",7
+"Great Pond",2022,0,9,0,"GRP","STX","Nearshore",6
+"Jacks Bay",2022,0,9,0,"JKB","STX","Nearshore",14
+"Magens Bay",2022,0,9,0,"MGN","STT","Nearshore",7
+"Salt River West",2022,0,9,0,"SRW","STX","Nearshore",11
+"Sprat Hole",2022,0,9,0,"SPH","STX","Nearshore",8
+"Castle",2011,1,10,17.6209638397046,"CST","STX","Offshore",7
+"South Capella",2011,3,10,84.2227546591402,"SCP","STT","Offshore",20
+"South Water",2011,3,10,11.3518515851731,"SWT","STT","Offshore",20
+"Buck Island STX",2011,0,10,0,"BIX","STX","Offshore",15
+"Eagle Ray",2011,0,10,0,"EGR","STX","Offshore",10
+"Flat Cay",2011,0,10,0,"FLC","STT","Offshore",12
+"Mutton Snapper FSA",2011,0,10,0,"MTS","STX","Offshore",24
+"Seahorse Cottage Shoal",2011,0,10,0,"SHR","STT","Offshore",20
+"Buck Island STX",2012,1,11,0.365062413894815,"BIX","STX","Offshore",15
+"Castle",2012,4,10,115.984186454451,"CST","STX","Offshore",7
+"Mutton Snapper FSA",2012,1,10,17.6209638397046,"MTS","STX","Offshore",24
+"Seahorse Cottage Shoal",2012,1,10,3.78395052839102,"SHR","STT","Offshore",20
+"South Capella",2012,5,10,74.2678058872096,"SCP","STT","Offshore",20
+"St James",2012,2,10,0.803137310568593,"SSJ","STT","Offshore",15
+"Buck Island STT",2012,0,10,0,"BIT","STT","Offshore",14
+"Eagle Ray",2012,0,10,0,"EGR","STX","Offshore",10
+"Flat Cay",2012,0,10,0,"FLC","STT","Offshore",12
+"Savana",2012,0,10,0,"SVN","STT","Offshore",9
+"South Water",2012,0,10,0,"SWT","STT","Offshore",20
+"Savana",2013,1,10,17.6209638397046,"SVN","STT","Offshore",9
+"South Capella",2013,3,11,48.0571741082854,"SCP","STT","Offshore",20
+"St James",2013,6,10,185.968359146993,"SSJ","STT","Offshore",15
+"Buck Island STT",2013,0,8,0,"BIT","STT","Offshore",14
+"Buck Island STX",2013,0,10,0,"BIX","STX","Offshore",15
+"Castle",2013,0,8,0,"CST","STX","Offshore",7
+"Eagle Ray",2013,0,11,0,"EGR","STX","Offshore",10
+"Flat Cay",2013,0,10,0,"FLC","STT","Offshore",12
+"Mutton Snapper FSA",2013,0,10,0,"MTS","STX","Offshore",24
+"Seahorse Cottage Shoal",2013,0,10,0,"SHR","STT","Offshore",20
+"Buck Island STX",2014,2,10,35.2419276794093,"BIX","STX","Offshore",15
+"Eagle Ray",2014,2,7,30.5784490972795,"EGR","STX","Offshore",10
+"Seahorse Cottage Shoal",2014,1,10,3.78395052839102,"SHR","STT","Offshore",20
+"South Capella",2014,7,10,201.031680443512,"SCP","STT","Offshore",20
+"Buck Island STT",2014,0,10,0,"BIT","STT","Offshore",14
+"Castle",2014,0,10,0,"CST","STX","Offshore",7
+"Flat Cay",2014,0,10,0,"FLC","STT","Offshore",12
+"Mutton Snapper FSA",2014,0,10,0,"MTS","STX","Offshore",24
+"Savana",2014,0,10,0,"SVN","STT","Offshore",9
+"South Water",2014,0,10,0,"SWT","STT","Offshore",20
+"St James",2014,0,10,0,"SSJ","STT","Offshore",15
+"Buck Island STX",2015,1,10,0.401568655284296,"BIX","STX","Offshore",15
+"Eagle Ray",2015,1,10,3.78395052839102,"EGR","STX","Offshore",10
+"Mutton Snapper FSA",2015,1,10,48.9808269797309,"MTS","STX","Offshore",24
+"Savana",2015,3,10,25.1888648964867,"SVN","STT","Offshore",9
+"Seahorse Cottage Shoal",2015,2,10,97.9616539594619,"SHR","STT","Offshore",20
+"South Capella",2015,6,10,64.214743104287,"SCP","STT","Offshore",20
+"St James",2015,7,10,64.9197664038636,"SSJ","STT","Offshore",15
+"Buck Island STT",2015,0,10,0,"BIT","STT","Offshore",14
+"Castle",2015,0,10,0,"CST","STX","Offshore",7
+"Flat Cay",2015,0,10,0,"FLC","STT","Offshore",12
+"South Water",2015,0,10,0,"SWT","STT","Offshore",20
+"Buck Island STX",2016,1,10,3.78395052839102,"BIX","STX","Offshore",15
+"Mutton Snapper FSA",2016,3,10,52.8628915191139,"MTS","STX","Offshore",24
+"Seahorse Cottage Shoal",2016,5,10,105.627669027236,"SHR","STT","Offshore",20
+"South Capella",2016,4,10,88.0067051875313,"SCP","STT","Offshore",20
+"St James",2016,3,10,84.2227546591402,"SSJ","STT","Offshore",15
+"Buck Island STT",2016,0,10,0,"BIT","STT","Offshore",14
+"Castle",2016,0,10,0,"CST","STX","Offshore",7
+"Eagle Ray",2016,0,10,0,"EGR","STX","Offshore",10
+"Flat Cay",2016,0,10,0,"FLC","STT","Offshore",12
+"Savana",2016,0,10,0,"SVN","STT","Offshore",9
+"South Water",2016,0,10,0,"SWT","STT","Offshore",20
+"Buck Island STT",2017,1,10,0.401568655284296,"BIT","STT","Offshore",14
+"Savana",2017,1,10,0.401568655284296,"SVN","STT","Offshore",9
+"South Capella",2017,1,10,17.6209638397046,"SCP","STT","Offshore",20
+"Buck Island STX",2017,0,10,0,"BIX","STX","Offshore",15
+"Castle",2017,0,10,0,"CST","STX","Offshore",7
+"Eagle Ray",2017,0,10,0,"EGR","STX","Offshore",10
+"Mutton Snapper FSA",2017,0,10,0,"MTS","STX","Offshore",24
+"Seahorse Cottage Shoal",2017,0,10,0,"SHR","STT","Offshore",20
+"South Water",2017,0,9,0,"SWT","STT","Offshore",20
+"Flat Cay",2018,3,12,9.45987632097756,"FLC","STT","Offshore",12
+"Savana",2018,1,10,17.6209638397046,"SVN","STT","Offshore",9
+"Seahorse Cottage Shoal",2018,4,10,15.1358021135641,"SHR","STT","Offshore",20
+"South Capella",2018,9,10,79.2524312068591,"SCP","STT","Offshore",20
+"St James",2018,5,10,105.627669027236,"SSJ","STT","Offshore",15
+"Buck Island STT",2018,0,10,0,"BIT","STT","Offshore",14
+"Buck Island STX",2018,0,10,0,"BIX","STX","Offshore",15
+"Castle",2018,0,10,0,"CST","STX","Offshore",7
+"Eagle Ray",2018,0,11,0,"EGR","STX","Offshore",10
+"Mutton Snapper FSA",2018,0,10,0,"MTS","STX","Offshore",24
+"South Water",2018,0,10,0,"SWT","STT","Offshore",20
+"Mutton Snapper FSA",2019,2,9,74.0019897993729,"MTS","STX","Offshore",24
+"Seahorse Cottage Shoal",2019,1,9,0.446187394760329,"SHR","STT","Offshore",20
+"South Capella",2019,4,9,47.5664763735459,"SCP","STT","Offshore",20
+"St James",2019,6,9,13.9517306122511,"SSJ","STT","Offshore",15
+"Buck Island STT",2019,0,9,0,"BIT","STT","Offshore",14
+"Buck Island STX",2019,0,9,0,"BIX","STX","Offshore",15
+"Castle",2019,0,9,0,"CST","STX","Offshore",7
+"Eagle Ray",2019,0,9,0,"EGR","STX","Offshore",10
+"Flat Cay",2019,0,9,0,"FLC","STT","Offshore",12
+"Savana",2019,0,9,0,"SVN","STT","Offshore",9
+"South Water",2019,0,9,0,"SWT","STT","Offshore",20
+"Flat Cay",2020,1,9,4.20438947599003,"FLC","STT","Offshore",12
+"Mutton Snapper FSA",2020,2,9,39.1576974215659,"MTS","STX","Offshore",24
+"Seahorse Cottage Shoal",2020,3,9,43.3620868975559,"SHR","STT","Offshore",20
+"South Capella",2020,5,9,97.8942435539147,"SCP","STT","Offshore",20
+"St James",2020,3,9,43.3620868975559,"SSJ","STT","Offshore",15
+"Buck Island STT",2020,0,9,0,"BIT","STT","Offshore",14
+"Buck Island STX",2020,0,9,0,"BIX","STX","Offshore",15
+"Castle",2020,0,9,0,"CST","STX","Offshore",7
+"Eagle Ray",2020,0,9,0,"EGR","STX","Offshore",10
+"Savana",2020,0,9,0,"SVN","STT","Offshore",9
+"South Water",2020,0,9,0,"SWT","STT","Offshore",20
+"Buck Island STX",2021,1,9,4.20438947599003,"BIX","STX","Offshore",15
+"Flat Cay",2021,1,9,4.20438947599003,"FLC","STT","Offshore",12
+"Mutton Snapper FSA",2021,3,9,39.1726671051181,"MTS","STX","Offshore",24
+"Savana",2021,4,9,5.11173394906294,"SVN","STT","Offshore",9
+"Seahorse Cottage Shoal",2021,3,9,27.987627662763,"SHR","STT","Offshore",20
+"South Capella",2021,5,9,98.2314153809062,"SCP","STT","Offshore",20
+"St James",2021,5,9,32.6382045335133,"SSJ","STT","Offshore",15
+"Buck Island STT",2021,0,9,0,"BIT","STT","Offshore",14
+"Castle",2021,0,9,0,"CST","STX","Offshore",7
+"Eagle Ray",2021,0,9,0,"EGR","STX","Offshore",10
+"South Water",2021,0,9,0,"SWT","STT","Offshore",20
+"Buck Island STX",2022,1,9,19.5788487107829,"BIX","STX","Offshore",15
+"Eagle Ray",2022,1,9,4.20438947599003,"EGR","STX","Offshore",10
+"Mutton Snapper FSA",2022,3,9,43.3620868975559,"MTS","STX","Offshore",24
+"Savana",2022,1,9,19.5788487107829,"SVN","STT","Offshore",9
+"Seahorse Cottage Shoal",2022,2,9,23.783238186773,"SHR","STT","Offshore",20
+"South Capella",2022,3,9,43.3620868975559,"SCP","STT","Offshore",20
+"St James",2022,5,9,78.7615822378921,"SSJ","STT","Offshore",15
+"Buck Island STT",2022,0,9,0,"BIT","STT","Offshore",14
+"Castle",2022,0,9,0,"CST","STX","Offshore",7
+"Flat Cay",2022,0,9,0,"FLC","STT","Offshore",12
+"South Water",2022,0,9,0,"SWT","STT","Offshore",20

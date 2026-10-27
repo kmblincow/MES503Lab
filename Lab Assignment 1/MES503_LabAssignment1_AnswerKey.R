@@ -101,8 +101,8 @@ ggplot(ytsnap, aes(x = habitat)) + geom_bar(color = "green4") + theme_bw() +
 
 # INTERPRETATION
 #
-# 1. Which habitat has the largest sample size?
-# 2. Which habitat has the smallest sample size?
+# 1. Which habitat has the largest sample size? Corals
+# 2. Which habitat has the smallest sample size? Rubble
 # 3. Are sample sizes approximately equal among habitats?
 # 4. How might differences in sample size influence your ability to compare habitats?
 
@@ -129,6 +129,12 @@ ggplot(ytsnap, aes(x = habitat)) + geom_bar(color = "green4") + theme_bw() +
 
 # FILL IN CODE
 ggplot(ytsnap, aes(x = habitat, y = length_cm)) +
+  geom_violin(alpha = 0.4) +
+  geom_jitter(height = 0, width = 0.15, alpha = 0.75) +
+  theme_bw() + 
+  labs(x = "Habitat Type", y = "Length (cm)", title = "Fish Lengths by Habitat")
+
+ggplot(ytsnap, aes(x = habitat, y = mass_g)) +
   geom_violin(alpha = 0.4) +
   geom_jitter(height = 0, width = 0.15, alpha = 0.75) +
   theme_bw() + 

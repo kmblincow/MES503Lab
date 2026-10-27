@@ -1,0 +1,581 @@
+Location,SampleYear,SampleMonth,Period,Transect,ScientificName,CommonName,TrophicGroup,0-5,6-10,11-20,21-30,31-40,41-50,51-60,61-70,71-80,81-90,91-100,SppTotal
+Black Point,2003,10,Annual,3,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Brewers Bay,2003,6,Annual,6,Lutjanus jocu,dog snapper,pisc,0,0,1,0,0,0,0,0,0,0,0,1
+Brewers Bay,2003,6,Annual,10,Lutjanus jocu,dog snapper,pisc,0,0,1,0,0,0,0,0,0,0,0,1
+Coculus Rock,2003,8,Annual,6,Lutjanus jocu,dog snapper,pisc,0,0,1,0,0,0,0,0,0,0,0,1
+Coculus Rock,2003,8,Annual,10,Lutjanus jocu,dog snapper,pisc,0,0,1,0,0,0,0,0,0,0,0,1
+Flat Cay,2003,6,Annual,7,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Grammanik Tiger FSA,2003,6,Annual,1,Mycteroperca tigris,tiger grouper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Grammanik Tiger FSA,2003,6,Annual,2,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,0,2,0,0,0,0,2
+Grammanik Tiger FSA,2003,6,Annual,4,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,0,1,0,0,0,0,1
+Grammanik Tiger FSA,2003,6,Annual,6,Mycteroperca tigris,tiger grouper,pisc,0,0,0,0,0,2,0,0,0,0,0,2
+Grammanik Tiger FSA,2003,6,Annual,7,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Grammanik Tiger FSA,2003,6,Annual,8,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,0,1,0,0,0,0,1
+Hind Bank East FSA,2003,6,Annual,6,Mycteroperca tigris,tiger grouper,pisc,0,0,0,0,2,0,0,0,0,0,0,2
+Hind Bank East FSA,2003,6,Annual,6,Mycteroperca venenosa,yellowfin grouper,pisc,0,0,0,1,0,0,0,0,0,0,0,1
+Hind Bank East FSA,2003,6,Annual,10,Mycteroperca tigris,tiger grouper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+Grammanik Tiger FSA,2004,6,Annual,2,Mycteroperca tigris,tiger grouper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Grammanik Tiger FSA,2004,6,Annual,3,Mycteroperca tigris,tiger grouper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Hind Bank East FSA,2004,6,Annual,1,Mycteroperca venenosa,yellowfin grouper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+Hind Bank East FSA,2004,6,Annual,2,Mycteroperca venenosa,yellowfin grouper,pisc,0,0,1,1,0,0,0,0,0,0,0,2
+Hind Bank East FSA,2004,6,Annual,5,Mycteroperca venenosa,yellowfin grouper,pisc,0,0,0,0,1,0,0,0,0,0,0,4
+Hind Bank East FSA,2004,6,Annual,6,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+Hind Bank East FSA,2004,6,Annual,7,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Hind Bank East FSA,2004,6,Annual,10,Mycteroperca venenosa,yellowfin grouper,pisc,0,1,1,0,0,0,0,0,0,0,0,2
+College Shoal East,2005,5,Annual,7,Mycteroperca tigris,tiger grouper,pisc,0,0,0,1,0,0,0,0,0,0,0,1
+College Shoal East,2005,5,Annual,8,Mycteroperca interstitialis,yellowmouth grouper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+Grammanik Tiger FSA,2005,5,Annual,1,Mycteroperca tigris,tiger grouper,pisc,0,0,0,3,0,0,0,0,0,0,0,3
+Grammanik Tiger FSA,2005,5,Annual,1,Mycteroperca venenosa,yellowfin grouper,pisc,0,0,0,0,0,0,1,0,0,0,0,1
+Grammanik Tiger FSA,2005,5,Annual,1,Mycteroperca interstitialis,yellowmouth grouper,pisc,0,0,0,0,3,0,0,0,0,0,0,3
+Grammanik Tiger FSA,2005,5,Annual,2,Mycteroperca tigris,tiger grouper,pisc,0,0,0,0,4,0,0,0,0,0,0,4
+Grammanik Tiger FSA,2005,5,Annual,2,Mycteroperca venenosa,yellowfin grouper,pisc,0,0,0,0,0,0,1,0,0,0,0,1
+Grammanik Tiger FSA,2005,5,Annual,2,Mycteroperca interstitialis,yellowmouth grouper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+Grammanik Tiger FSA,2005,5,Annual,3,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,0,1,0,0,0,0,1
+Grammanik Tiger FSA,2005,5,Annual,3,Mycteroperca tigris,tiger grouper,pisc,0,0,0,0,2,0,0,0,0,0,0,2
+Grammanik Tiger FSA,2005,5,Annual,4,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,0,16,0,0,0,0,16
+Grammanik Tiger FSA,2005,5,Annual,4,Mycteroperca tigris,tiger grouper,pisc,0,0,0,0,2,0,0,0,0,0,0,2
+Grammanik Tiger FSA,2005,5,Annual,5,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,0,3,0,0,0,0,3
+Grammanik Tiger FSA,2005,5,Annual,5,Mycteroperca tigris,tiger grouper,pisc,0,0,0,0,2,1,0,0,0,0,0,3
+Grammanik Tiger FSA,2005,5,Annual,6,Mycteroperca tigris,tiger grouper,pisc,0,0,0,2,2,0,0,0,0,0,0,4
+Grammanik Tiger FSA,2005,5,Annual,7,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,0,1,0,0,0,0,1
+Grammanik Tiger FSA,2005,5,Annual,8,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,0,3,0,0,0,0,3
+Grammanik Tiger FSA,2005,5,Annual,8,Mycteroperca tigris,tiger grouper,pisc,0,0,0,2,0,0,0,0,0,0,0,2
+Grammanik Tiger FSA,2005,5,Annual,9,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,0,21,0,0,0,0,21
+Grammanik Tiger FSA,2005,5,Annual,10,Mycteroperca interstitialis,yellowmouth grouper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+Hind Bank East FSA,2005,5,Annual,3,Mycteroperca tigris,tiger grouper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Seahorse Cottage Shoal,2005,5,Annual,2,Lutjanus jocu,dog snapper,pisc,0,0,0,1,0,0,0,0,0,0,0,1
+South Capella,2005,5,Annual,4,Lutjanus jocu,dog snapper,pisc,0,0,0,1,0,1,0,0,0,0,0,2
+South Water,2005,5,Annual,3,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+South Water,2005,5,Annual,10,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+College Shoal East,2006,7,Annual,7,Mycteroperca tigris,tiger grouper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+College Shoal East,2006,7,Annual,9,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Grammanik Tiger FSA,2006,8,Annual,4,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,0,12,0,0,0,0,12
+Grammanik Tiger FSA,2006,8,Annual,4,Mycteroperca tigris,tiger grouper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Grammanik Tiger FSA,2006,8,Annual,5,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Grammanik Tiger FSA,2006,8,Annual,6,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,0,45,0,0,0,0,45
+Grammanik Tiger FSA,2006,8,Annual,7,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,0,22,0,0,0,0,22
+Grammanik Tiger FSA,2006,8,Annual,7,Mycteroperca venenosa,yellowfin grouper,pisc,0,0,0,0,0,0,1,0,0,0,0,1
+Grammanik Tiger FSA,2006,8,Annual,8,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,0,60,0,0,0,0,60
+Grammanik Tiger FSA,2006,8,Annual,8,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Grammanik Tiger FSA,2006,8,Annual,9,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,0,35,0,0,0,0,35
+Grammanik Tiger FSA,2006,8,Annual,10,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,0,6,0,0,0,0,6
+Hind Bank East FSA,2006,8,Annual,5,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+College Shoal East,2007,8,Annual,4,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+College Shoal East,2007,8,Annual,4,Mycteroperca venenosa,yellowfin grouper,pisc,0,0,0,0,0,0,1,0,0,0,0,1
+College Shoal East,2007,8,Annual,6,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+College Shoal East,2007,8,Annual,8,Lutjanus jocu,dog snapper,pisc,0,0,0,0,2,1,0,0,0,0,0,3
+College Shoal East,2007,8,Annual,9,Lutjanus jocu,dog snapper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+Grammanik Tiger FSA,2007,8,Annual,4,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,0,1,0,0,0,0,1
+Grammanik Tiger FSA,2007,8,Annual,5,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,0,6,0,0,0,0,6
+Grammanik Tiger FSA,2007,8,Annual,5,Mycteroperca venenosa,yellowfin grouper,pisc,0,0,0,0,0,0,1,0,0,0,0,1
+Grammanik Tiger FSA,2007,8,Annual,6,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,1,0,2,0,0,0,0,3
+Grammanik Tiger FSA,2007,8,Annual,6,Mycteroperca tigris,tiger grouper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Grammanik Tiger FSA,2007,8,Annual,7,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Grammanik Tiger FSA,2007,8,Annual,7,Mycteroperca tigris,tiger grouper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Grammanik Tiger FSA,2007,8,Annual,7,Mycteroperca interstitialis,yellowmouth grouper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Grammanik Tiger FSA,2007,8,Annual,8,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Hind Bank East FSA,2007,8,Annual,3,Mycteroperca tigris,tiger grouper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Seahorse Cottage Shoal,2007,7,Annual,5,Lutjanus jocu,dog snapper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+South Capella,2007,8,Annual,3,Lutjanus jocu,dog snapper,pisc,0,0,0,1,0,0,0,0,0,0,0,1
+South Water,2007,7,Annual,2,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Coculus Rock,2008,5,Annual,3,Epinephelus striatus,Nassau grouper,pisc,0,0,0,1,0,0,0,0,0,0,0,1
+College Shoal East,2008,5,Annual,2,Mycteroperca venenosa,yellowfin grouper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+College Shoal East,2008,5,Annual,3,Mycteroperca tigris,tiger grouper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+College Shoal East,2008,5,Annual,4,Mycteroperca tigris,tiger grouper,pisc,0,0,0,0,0,2,0,0,0,0,0,5
+College Shoal East,2008,5,Annual,10,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+College Shoal East,2008,5,Annual,10,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+College Shoal East,2008,5,Annual,10,Mycteroperca interstitialis,yellowmouth grouper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+Flat Cay,2008,6,Annual,9,Epinephelus striatus,Nassau grouper,pisc,0,0,0,1,0,0,0,0,0,0,0,1
+Flat Cay,2008,6,Annual,10,Epinephelus striatus,Nassau grouper,pisc,0,0,0,1,0,0,0,0,0,0,0,1
+Grammanik Tiger FSA,2008,6,Annual,2,Lutjanus jocu,dog snapper,pisc,0,0,0,1,0,0,0,0,0,0,0,1
+Grammanik Tiger FSA,2008,8,Annual,3,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,0,0,6,0,0,0,6
+Grammanik Tiger FSA,2008,8,Annual,4,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,0,0,2,0,0,0,2
+Grammanik Tiger FSA,2008,8,Annual,8,Mycteroperca interstitialis,yellowmouth grouper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+Grammanik Tiger FSA,2008,8,Annual,9,Mycteroperca venenosa,yellowfin grouper,pisc,0,0,1,0,0,0,0,0,0,0,0,1
+Hind Bank East FSA,2008,7,Annual,3,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,1,1,0,0,0,0,2
+Hind Bank East FSA,2008,5,Annual,7,Mycteroperca tigris,tiger grouper,pisc,0,0,0,0,0,0,1,0,0,0,0,1
+Hind Bank East FSA,2008,5,Annual,8,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,1,0,1,0,0,0,2
+Hind Bank East FSA,2008,5,Annual,10,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Grammanik Tiger FSA,2009,9,Annual,3,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,2,0,0,0,0,0,2
+Grammanik Tiger FSA,2009,9,Annual,3,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Grammanik Tiger FSA,2009,9,Annual,5,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,0,0,1,0,0,0,1
+Grammanik Tiger FSA,2009,9,Annual,5,Mycteroperca tigris,tiger grouper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Grammanik Tiger FSA,2009,9,Annual,5,Mycteroperca interstitialis,yellowmouth grouper,pisc,0,0,1,0,0,0,0,0,0,0,0,1
+Grammanik Tiger FSA,2009,9,Annual,8,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,0,1,0,0,0,0,1
+Grammanik Tiger FSA,2009,9,Annual,8,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Grammanik Tiger FSA,2009,9,Annual,10,Lutjanus jocu,dog snapper,pisc,0,0,1,0,0,0,0,0,0,0,0,1
+Hind Bank East FSA,2009,12,Annual,1,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,0,1,0,0,0,0,1
+Hind Bank East FSA,2009,12,Annual,2,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,0,2,0,0,0,0,2
+Hind Bank East FSA,2009,12,Annual,2,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,0,0,1,0,0,0,0,1
+Hind Bank East FSA,2009,12,Annual,3,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,0,1,0,0,0,0,1
+Hind Bank East FSA,2009,12,Annual,4,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,0,1,0,0,0,0,1
+Hind Bank East FSA,2009,12,Annual,5,Mycteroperca venenosa,yellowfin grouper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+Hind Bank East FSA,2009,9,Annual,6,Mycteroperca tigris,tiger grouper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+Hind Bank East FSA,2009,9,Annual,6,Mycteroperca venenosa,yellowfin grouper,pisc,0,0,0,0,0,0,1,0,0,0,0,1
+Hind Bank East FSA,2009,6,Annual,7,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Hind Bank East FSA,2009,6,Annual,9,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Salt River Deep,2009,4,Annual,3,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+South Capella,2009,9,Annual,6,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+South Capella,2009,9,Annual,7,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+College Shoal East,2010,10,Annual,2,Mycteroperca interstitialis,yellowmouth grouper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+College Shoal East,2010,12,Annual,5,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+College Shoal East,2010,12,Annual,6,Mycteroperca tigris,tiger grouper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Grammanik Tiger FSA,2010,12,Annual,2,Mycteroperca tigris,tiger grouper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Grammanik Tiger FSA,2010,12,Annual,2,Mycteroperca interstitialis,yellowmouth grouper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+Grammanik Tiger FSA,2010,10,Annual,3,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Grammanik Tiger FSA,2010,10,Annual,3,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Grammanik Tiger FSA,2010,10,Annual,4,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,0,0,1,0,0,0,1
+Grammanik Tiger FSA,2010,10,Annual,4,Mycteroperca tigris,tiger grouper,pisc,0,0,0,0,0,0,1,0,0,0,0,1
+Grammanik Tiger FSA,2010,10,Annual,8,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,2,0,0,0,0,0,0,2
+Hind Bank East FSA,2010,10,Annual,1,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Hind Bank East FSA,2010,10,Annual,1,Mycteroperca interstitialis,yellowmouth grouper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Hind Bank East FSA,2010,10,Annual,2,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,0,1,0,0,0,0,1
+Hind Bank East FSA,2010,10,Annual,3,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Hind Bank East FSA,2010,10,Annual,8,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Hind Bank East FSA,2010,10,Annual,8,Mycteroperca tigris,tiger grouper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+South Capella,2010,6,Annual,4,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,0,2,0,0,0,0,2
+South Water,2010,6,Annual,5,Mycteroperca venenosa,yellowfin grouper,pisc,0,0,0,0,0,0,1,0,0,0,0,1
+College Shoal East,2011,10,Annual,4,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,0,1,0,0,0,0,1
+College Shoal East,2011,10,Annual,7,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+College Shoal East,2011,10,Annual,9,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,0,1,0,0,0,0,1
+Grammanik Tiger FSA,2011,9,Annual,2,Lutjanus jocu,dog snapper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+Grammanik Tiger FSA,2011,9,Annual,2,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Grammanik Tiger FSA,2011,9,Annual,3,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,0,1,0,0,0,0,1
+Grammanik Tiger FSA,2011,9,Annual,4,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,0,0,1,0,0,0,0,1
+Grammanik Tiger FSA,2011,9,Annual,6,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,0,1,0,0,0,0,1
+Grammanik Tiger FSA,2011,9,Annual,6,Mycteroperca interstitialis,yellowmouth grouper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+Grammanik Tiger FSA,2011,10,Annual,8,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Grammanik Tiger FSA,2011,10,Annual,8,Mycteroperca tigris,tiger grouper,pisc,0,0,2,0,0,1,0,0,0,0,0,3
+Grammanik Tiger FSA,2011,10,Annual,9,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Grammanik Tiger FSA,2011,10,Annual,9,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Grammanik Tiger FSA,2011,10,Annual,10,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,0,0,0,1,0,0,1
+Hind Bank East FSA,2011,9,Annual,8,Lutjanus jocu,dog snapper,pisc,0,0,0,1,0,0,0,0,0,0,0,1
+Lang Bank Red Hind FSA,2011,7,Annual,8,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+Salt River Deep,2011,7,Annual,6,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,0,1,0,0,0,0,1
+Botany Bay,2012,11,Annual,5,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Botany Bay,2012,11,Annual,8,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,0,1,0,0,0,0,1
+Brewers Bay,2012,11,Annual,8,Mycteroperca tigris,tiger grouper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+College Shoal East,2012,10,Annual,1,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,0,0,1,0,0,0,1
+College Shoal East,2012,10,Annual,2,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+College Shoal East,2012,10,Annual,3,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,0,0,0,1,0,0,1
+College Shoal East,2012,10,Annual,3,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+College Shoal East,2012,9,Annual,5,Mycteroperca venenosa,yellowfin grouper,pisc,0,0,0,0,0,0,1,0,0,0,0,1
+College Shoal East,2012,10,Annual,7,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+College Shoal East,2012,10,Annual,7,Mycteroperca venenosa,yellowfin grouper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+Flat Cay,2012,9,Annual,4,Lutjanus jocu,dog snapper,pisc,0,0,0,1,0,0,0,0,0,0,0,1
+Flat Cay,2012,11,Annual,10,Lutjanus jocu,dog snapper,pisc,0,0,0,1,0,0,0,0,0,0,0,1
+Grammanik Tiger FSA,2012,10,Annual,1,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,0,0,20,0,0,0,20
+Grammanik Tiger FSA,2012,10,Annual,2,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,2,0,0,0,0,0,0,2
+Grammanik Tiger FSA,2012,10,Annual,2,Lutjanus jocu,dog snapper,pisc,0,0,0,1,0,0,0,0,0,0,0,1
+Grammanik Tiger FSA,2012,10,Annual,3,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,0,0,0,1,0,0,1
+Grammanik Tiger FSA,2012,10,Annual,3,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,16,0,0,0,0,0,16
+Grammanik Tiger FSA,2012,10,Annual,4,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,20,0,0,0,0,0,20
+Grammanik Tiger FSA,2012,10,Annual,4,Epinephelus striatus,Nassau grouper,pisc,0,1,0,0,0,1,0,0,0,0,0,2
+Grammanik Tiger FSA,2012,10,Annual,5,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,40,0,0,0,0,0,40
+Grammanik Tiger FSA,2012,10,Annual,6,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,2,0,0,0,0,0,2
+Grammanik Tiger FSA,2012,9,Annual,7,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,100,0,0,0,0,0,100
+Grammanik Tiger FSA,2012,9,Annual,8,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,0,30,0,0,0,0,30
+Grammanik Tiger FSA,2012,10,Annual,9,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,8,0,0,0,0,0,8
+Grammanik Tiger FSA,2012,10,Annual,9,Lutjanus jocu,dog snapper,pisc,0,0,0,0,4,1,0,0,0,0,0,5
+Grammanik Tiger FSA,2012,10,Annual,10,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,0,2,0,2,0,0,4
+Grammanik Tiger FSA,2012,10,Annual,10,Lutjanus jocu,dog snapper,pisc,0,0,0,0,5,0,0,0,0,0,0,5
+Hind Bank East FSA,2012,12,Annual,1,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Hind Bank East FSA,2012,9,Annual,2,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,0,1,0,0,0,0,1
+Hind Bank East FSA,2012,10,Annual,10,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Hind Bank East FSA,2012,10,Annual,10,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,0,1,1,0,0,0,0,2
+Meri Shoal,2012,9,Annual,1,Mycteroperca tigris,tiger grouper,pisc,0,0,0,0,0,0,1,0,0,0,0,1
+Savana,2012,9,Annual,8,Mycteroperca interstitialis,yellowmouth grouper,pisc,0,0,1,0,0,0,0,0,0,0,0,1
+Buck Island STT,2013,1,Annual,6,Lutjanus jocu,dog snapper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+College Shoal East,2013,10,Annual,1,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+College Shoal East,2013,10,Annual,1,Mycteroperca venenosa,yellowfin grouper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+College Shoal East,2013,8,Annual,2,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,0,0,0,1,0,0,1
+College Shoal East,2013,8,Annual,2,Mycteroperca tigris,tiger grouper,pisc,0,0,0,0,0,0,0,1,0,0,0,1
+College Shoal East,2013,10,Annual,5,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+College Shoal East,2013,10,Annual,8,Mycteroperca tigris,tiger grouper,pisc,0,0,0,0,0,0,1,0,0,0,0,1
+Flat Cay,2013,10,Annual,7,Lutjanus jocu,dog snapper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+Ginsburg Fringe,2013,11,Annual,3,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Grammanik Tiger FSA,2013,10,Annual,1,Mycteroperca tigris,tiger grouper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Grammanik Tiger FSA,2013,10,Annual,2,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Grammanik Tiger FSA,2013,10,Annual,4,Mycteroperca venenosa,yellowfin grouper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Grammanik Tiger FSA,2013,10,Annual,5,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,0,0,1,0,0,0,1
+Grammanik Tiger FSA,2013,10,Annual,5,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Grammanik Tiger FSA,2013,10,Annual,5,Mycteroperca venenosa,yellowfin grouper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Grammanik Tiger FSA,2013,10,Annual,8,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Hind Bank East FSA,2013,10,Annual,1,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,4,0,0,0,0,0,4
+Hind Bank East FSA,2013,10,Annual,2,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,0,1,0,0,0,0,1
+Hind Bank East FSA,2013,10,Annual,7,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,0,0,1,0,0,0,0,1
+Hind Bank East FSA,2013,10,Annual,9,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Hind Bank East FSA,2013,10,Annual,12,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,0,0,1,0,0,0,1
+Hind Bank East FSA,2013,10,Annual,12,Mycteroperca venenosa,yellowfin grouper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+Meri Shoal,2013,11,Annual,4,Mycteroperca tigris,tiger grouper,pisc,0,0,1,0,0,0,0,0,0,0,0,1
+Meri Shoal,2013,10,Annual,6,Mycteroperca interstitialis,yellowmouth grouper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+Salt River Deep,2013,8,Annual,3,Lutjanus jocu,dog snapper,pisc,0,0,0,2,0,0,0,0,0,0,0,2
+Seahorse Cottage Shoal,2013,10,Annual,1,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,0,1,0,0,0,0,1
+South Capella,2013,10,Annual,3,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,0,1,0,0,0,0,1
+Buck Island STT,2014,9,Annual,8,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Buck Island STX,2014,12,Annual,5,Mycteroperca venenosa,yellowfin grouper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Cane Bay,2014,10,Annual,4,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+College Shoal East,2014,9,Annual,2,Mycteroperca interstitialis,yellowmouth grouper,pisc,0,0,0,0,0,0,1,0,0,0,0,1
+College Shoal East,2014,9,Annual,3,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+College Shoal East,2014,9,Annual,4,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,0,1,0,0,0,0,1
+College Shoal East,2014,10,Annual,8,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Flat Cay,2014,11,Annual,1,Lutjanus jocu,dog snapper,pisc,0,0,0,1,0,0,0,0,0,0,0,4
+Flat Cay,2014,11,Annual,5,Lutjanus jocu,dog snapper,pisc,0,0,1,0,0,0,0,0,0,0,0,1
+Ginsburg Fringe,2014,3,Annual,4,Lutjanus jocu,dog snapper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+Ginsburg Fringe,2014,3,Annual,5,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Grammanik Tiger FSA,2014,12,Annual,1,Mycteroperca tigris,tiger grouper,pisc,0,0,0,1,0,0,0,0,0,0,0,1
+Grammanik Tiger FSA,2014,12,Annual,2,Mycteroperca tigris,tiger grouper,pisc,0,0,0,1,0,0,0,0,0,0,0,1
+Grammanik Tiger FSA,2014,12,Annual,3,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Grammanik Tiger FSA,2014,12,Annual,4,Mycteroperca interstitialis,yellowmouth grouper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+Grammanik Tiger FSA,2014,12,Annual,8,Mycteroperca interstitialis,yellowmouth grouper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Hind Bank East FSA,2014,10,Annual,1,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Hind Bank East FSA,2014,10,Annual,2,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Hind Bank East FSA,2014,10,Annual,2,Mycteroperca interstitialis,yellowmouth grouper,pisc,0,0,1,0,0,0,0,0,0,0,0,1
+Hind Bank East FSA,2014,12,Annual,3,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,0,0,2,0,0,0,2
+Hind Bank East FSA,2014,12,Annual,3,Mycteroperca interstitialis,yellowmouth grouper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Hind Bank East FSA,2014,12,Annual,4,Mycteroperca venenosa,yellowfin grouper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Hind Bank East FSA,2014,9,Annual,5,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Hind Bank East FSA,2014,9,Annual,5,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+Hind Bank East FSA,2014,9,Annual,5,Mycteroperca tigris,tiger grouper,pisc,0,0,0,0,0,0,1,0,0,0,0,1
+Hind Bank East FSA,2014,9,Annual,5,Mycteroperca interstitialis,yellowmouth grouper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Hind Bank East FSA,2014,9,Annual,7,Lutjanus jocu,dog snapper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+Hind Bank East FSA,2014,9,Annual,7,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Hind Bank East FSA,2014,9,Annual,7,Mycteroperca tigris,tiger grouper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Hind Bank East FSA,2014,9,Annual,7,Mycteroperca venenosa,yellowfin grouper,pisc,0,0,0,0,0,0,1,0,0,0,0,1
+Hind Bank East FSA,2014,9,Annual,7,Mycteroperca interstitialis,yellowmouth grouper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+Hind Bank East FSA,2014,12,Annual,8,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,0,0,1,0,0,0,1
+Hind Bank East FSA,2014,12,Annual,8,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Hind Bank East FSA,2014,12,Annual,8,Mycteroperca interstitialis,yellowmouth grouper,pisc,0,0,1,0,0,0,0,0,0,0,0,1
+Hind Bank East FSA,2014,9,Annual,10,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,0,0,1,0,0,0,1
+Hind Bank East FSA,2014,9,Annual,10,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+Salt River Deep,2014,9,Annual,3,Lutjanus jocu,dog snapper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+Seahorse Cottage Shoal,2014,10,Annual,9,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,0,1,0,0,0,0,1
+Sprat Hole,2014,10,Annual,8,Mycteroperca tigris,tiger grouper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+Black Point,2015,8,Annual,1,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+Buck Island STT,2015,10,Annual,10,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Cane Bay Deep,2015,10,Annual,3,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,0,1,0,0,0,0,1
+Coculus Rock,2015,8,Annual,1,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Coculus Rock,2015,10,Annual,8,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+College Shoal East,2015,11,Annual,1,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+College Shoal East,2015,11,Annual,2,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,0,0,0,1,0,1,2
+College Shoal East,2015,11,Annual,2,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+College Shoal East,2015,11,Annual,2,Mycteroperca venenosa,yellowfin grouper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+College Shoal East,2015,11,Annual,3,Lutjanus jocu,dog snapper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+College Shoal East,2015,11,Annual,3,Mycteroperca tigris,tiger grouper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+College Shoal East,2015,9,Annual,4,Mycteroperca tigris,tiger grouper,pisc,0,0,0,0,1,1,0,0,0,0,0,2
+College Shoal East,2015,9,Annual,9,Mycteroperca tigris,tiger grouper,pisc,0,0,0,0,2,0,0,0,0,0,0,2
+College Shoal East,2015,9,Annual,10,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,0,0,1,0,0,0,0,1
+Ginsburg Fringe,2015,9,Annual,1,Lutjanus jocu,dog snapper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+Ginsburg Fringe,2015,9,Annual,2,Lutjanus jocu,dog snapper,pisc,0,0,0,0,2,0,0,0,0,0,0,2
+Ginsburg Fringe,2015,9,Annual,3,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Ginsburg Fringe,2015,9,Annual,4,Lutjanus jocu,dog snapper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+Grammanik Tiger FSA,2015,11,Annual,1,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,0,5,0,10,0,10,25
+Grammanik Tiger FSA,2015,11,Annual,2,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,0,0,0,0,0,10,10
+Grammanik Tiger FSA,2015,11,Annual,4,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,7,0,0,0,0,0,7
+Grammanik Tiger FSA,2015,11,Annual,4,Lutjanus jocu,dog snapper,pisc,0,0,0,1,0,0,0,0,0,0,0,1
+Grammanik Tiger FSA,2015,11,Annual,4,Mycteroperca venenosa,yellowfin grouper,pisc,0,0,0,1,0,0,0,0,0,0,0,1
+Grammanik Tiger FSA,2015,11,Annual,5,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,0,43,0,0,0,0,43
+Grammanik Tiger FSA,2015,11,Annual,6,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,0,17,0,0,0,0,17
+Grammanik Tiger FSA,2015,11,Annual,6,Mycteroperca interstitialis,yellowmouth grouper,pisc,0,0,0,1,1,0,0,0,0,0,0,2
+Grammanik Tiger FSA,2015,11,Annual,7,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,6,9,11,2,0,0,0,28
+Grammanik Tiger FSA,2015,11,Annual,7,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Grammanik Tiger FSA,2015,11,Annual,7,Mycteroperca venenosa,yellowfin grouper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+Grammanik Tiger FSA,2015,11,Annual,8,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,8,8,0,0,0,0,16
+Grammanik Tiger FSA,2015,11,Annual,8,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,0,0,1,0,0,0,0,1
+Grammanik Tiger FSA,2015,9,Annual,9,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,0,0,2,0,0,0,2
+Grammanik Tiger FSA,2015,9,Annual,9,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,1,1,0,0,0,0,0,2
+Grammanik Tiger FSA,2015,9,Annual,10,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,0,4,4,0,0,0,8
+Grammanik Tiger FSA,2015,9,Annual,10,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,0,1,0,1,0,0,0,2
+Grammanik Tiger FSA,2015,9,Annual,10,Mycteroperca tigris,tiger grouper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+Grammanik Tiger FSA,2015,9,Annual,10,Mycteroperca interstitialis,yellowmouth grouper,pisc,0,0,1,0,0,0,0,0,0,0,0,1
+Hind Bank East FSA,2015,11,Annual,1,Lutjanus jocu,dog snapper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+Hind Bank East FSA,2015,11,Annual,1,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,0,0,1,0,0,0,0,1
+Hind Bank East FSA,2015,11,Annual,3,Mycteroperca interstitialis,yellowmouth grouper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+Hind Bank East FSA,2015,11,Annual,5,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,0,1,0,0,0,0,1
+Hind Bank East FSA,2015,11,Annual,8,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,0,1,0,0,0,0,1
+Jacks Bay,2015,9,Annual,5,Lutjanus jocu,dog snapper,pisc,0,0,0,1,0,0,0,0,0,0,0,1
+Kings Corner,2015,9,Annual,4,Epinephelus striatus,Nassau grouper,pisc,0,0,0,1,0,0,0,0,0,0,0,1
+Meri Shoal,2015,9,Annual,2,Mycteroperca venenosa,yellowfin grouper,pisc,0,0,0,1,0,0,0,0,0,0,0,1
+Salt River Deep,2015,10,Annual,1,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Salt River Deep,2015,10,Annual,8,Lutjanus jocu,dog snapper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+Salt River West,2015,10,Annual,6,Epinephelus striatus,Nassau grouper,pisc,0,0,0,1,0,0,0,0,0,0,0,1
+South Water,2015,10,Annual,10,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+St James,2015,10,Annual,3,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+Black Point,2016,10,Annual,6,Epinephelus striatus,Nassau grouper,pisc,0,0,0,1,0,0,0,0,0,0,0,1
+Botany Bay,2016,9,Annual,10,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+Buck Island STT,2016,10,Annual,6,Epinephelus striatus,Nassau grouper,pisc,0,0,0,1,0,0,0,0,0,0,0,1
+Coculus Rock,2016,10,Annual,7,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+College Shoal East,2016,9,Annual,7,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,0,1,0,0,0,0,1
+College Shoal East,2016,9,Annual,8,Mycteroperca interstitialis,yellowmouth grouper,pisc,0,0,0,0,1,0,0,0,0,0,0,9
+College Shoal East,2016,9,Annual,9,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,0,1,0,0,0,0,1
+College Shoal East,2016,9,Annual,10,Mycteroperca interstitialis,yellowmouth grouper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+Flat Cay,2016,9,Annual,3,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+Flat Cay,2016,9,Annual,4,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Grammanik Tiger FSA,2016,9,Annual,1,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,2,1,0,0,0,0,0,3
+Grammanik Tiger FSA,2016,9,Annual,1,Mycteroperca tigris,tiger grouper,pisc,0,0,0,0,1,1,0,0,0,0,0,2
+Grammanik Tiger FSA,2016,9,Annual,2,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,0,0,0,1,1,0,2
+Grammanik Tiger FSA,2016,9,Annual,2,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,0,0,1,0,0,0,0,1
+Grammanik Tiger FSA,2016,9,Annual,3,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,0,2,0,0,0,0,2
+Grammanik Tiger FSA,2016,9,Annual,3,Lutjanus jocu,dog snapper,pisc,0,0,0,0,1,1,0,0,0,0,0,2
+Grammanik Tiger FSA,2016,9,Annual,3,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Grammanik Tiger FSA,2016,9,Annual,3,Mycteroperca tigris,tiger grouper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Grammanik Tiger FSA,2016,9,Annual,4,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,0,0,0,1,0,0,1
+Grammanik Tiger FSA,2016,9,Annual,4,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Grammanik Tiger FSA,2016,9,Annual,4,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,0,0,1,0,0,0,0,1
+Grammanik Tiger FSA,2016,9,Annual,5,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,8,0,0,0,0,0,8
+Grammanik Tiger FSA,2016,9,Annual,5,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,0,0,0,1,0,0,0,1
+Grammanik Tiger FSA,2016,9,Annual,6,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,1,0,0,0,0,0,2,0,3
+Grammanik Tiger FSA,2016,9,Annual,6,Mycteroperca tigris,tiger grouper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Grammanik Tiger FSA,2016,9,Annual,6,Mycteroperca interstitialis,yellowmouth grouper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+Grammanik Tiger FSA,2016,9,Annual,7,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,0,0,0,1,0,0,0,1
+Grammanik Tiger FSA,2016,9,Annual,8,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,1,2,0,0,0,0,3
+Grammanik Tiger FSA,2016,9,Annual,8,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,0,0,1,0,0,0,0,1
+Grammanik Tiger FSA,2016,9,Annual,8,Mycteroperca tigris,tiger grouper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+Grammanik Tiger FSA,2016,9,Annual,9,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,0,0,0,1,0,0,1
+Grammanik Tiger FSA,2016,9,Annual,9,Lutjanus jocu,dog snapper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+Grammanik Tiger FSA,2016,9,Annual,10,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,1,8,3,0,0,0,0,12
+Grammanik Tiger FSA,2016,9,Annual,10,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Grammanik Tiger FSA,2016,9,Annual,10,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+Grammanik Tiger FSA,2016,9,Annual,10,Mycteroperca interstitialis,yellowmouth grouper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+Hind Bank East FSA,2016,9,Annual,2,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,1,2,1,0,0,0,4
+Hind Bank East FSA,2016,10,Annual,3,Lutjanus jocu,dog snapper,pisc,0,0,1,0,0,0,0,0,0,0,0,1
+Hind Bank East FSA,2016,10,Annual,3,Epinephelus striatus,Nassau grouper,pisc,0,0,0,1,0,0,0,0,0,0,0,1
+Hind Bank East FSA,2016,9,Annual,5,Mycteroperca tigris,tiger grouper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+Hind Bank East FSA,2016,9,Annual,6,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,0,0,0,1,0,0,0,1
+Hind Bank East FSA,2016,9,Annual,6,Mycteroperca interstitialis,yellowmouth grouper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Hind Bank East FSA,2016,10,Annual,8,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,0,0,1,0,0,0,0,1
+Kings Corner,2016,10,Annual,1,Lutjanus jocu,dog snapper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+Kings Corner,2016,10,Annual,2,Lutjanus jocu,dog snapper,pisc,0,0,0,0,2,0,1,0,0,0,0,3
+Kings Corner,2016,10,Annual,3,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Kings Corner,2016,10,Annual,8,Lutjanus jocu,dog snapper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+Lang Bank Red Hind FSA,2016,10,Annual,1,Epinephelus striatus,Nassau grouper,pisc,0,0,0,1,0,0,0,0,0,0,0,1
+Lang Bank Red Hind FSA,2016,10,Annual,7,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Meri Shoal,2016,9,Annual,7,Mycteroperca venenosa,yellowfin grouper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Salt River Deep,2016,10,Annual,2,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+South Water,2016,10,Annual,10,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+Black Point,2017,8,Annual,1,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+Black Point,2017,8,Annual,5,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+Botany Bay,2017,12,PostHurr,8,Mycteroperca venenosa,yellowfin grouper,pisc,0,0,0,1,0,0,0,0,0,0,0,1
+Botany Bay,2017,12,PostHurr,9,Epinephelus striatus,Nassau grouper,pisc,0,0,0,1,0,0,0,0,0,0,0,1
+Botany Bay,2017,12,PostHurr,10,Mycteroperca venenosa,yellowfin grouper,pisc,0,0,0,1,0,0,0,0,0,0,0,1
+Brewers Bay,2017,8,Annual,10,Mycteroperca venenosa,yellowfin grouper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+Buck Island STT,2017,8,Annual,4,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Buck Island STT,2017,8,Annual,7,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,0,1,0,0,0,0,1
+Buck Island STT,2017,8,Annual,9,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,0,0,1,0,0,0,1
+Buck Island STT,2017,12,PostHurr,4,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Buck Island STT,2017,12,PostHurr,6,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Cane Bay Deep,2017,2,Annual,6,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,0,1,0,0,0,0,1
+Coculus Rock,2017,8,Annual,8,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+College Shoal East,2017,8,Annual,5,Lutjanus jocu,dog snapper,pisc,0,0,0,1,2,0,0,0,0,0,0,3
+College Shoal East,2017,8,Annual,5,Mycteroperca venenosa,yellowfin grouper,pisc,0,0,0,0,0,0,1,0,0,0,0,1
+College Shoal East,2017,8,Annual,7,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,0,0,1,0,0,0,1
+College Shoal East,2017,8,Annual,9,Mycteroperca venenosa,yellowfin grouper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+Eagle Ray,2017,2,Annual,7,Lutjanus jocu,dog snapper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+Grammanik Tiger FSA,2017,8,Annual,2,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,0,0,1,0,0,0,0,1
+Grammanik Tiger FSA,2017,8,Annual,2,Mycteroperca venenosa,yellowfin grouper,pisc,0,0,0,0,0,0,1,0,0,0,0,1
+Grammanik Tiger FSA,2017,8,Annual,3,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,0,1,1,0,0,0,2
+Grammanik Tiger FSA,2017,8,Annual,3,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,0,0,0,1,0,0,0,1
+Grammanik Tiger FSA,2017,8,Annual,3,Mycteroperca interstitialis,yellowmouth grouper,pisc,0,0,0,1,0,0,0,0,0,0,0,1
+Grammanik Tiger FSA,2017,8,Annual,5,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,0,0,0,1,0,0,1
+Grammanik Tiger FSA,2017,8,Annual,5,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,0,0,0,1,0,0,0,1
+Grammanik Tiger FSA,2017,8,Annual,7,Mycteroperca venenosa,yellowfin grouper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Grammanik Tiger FSA,2017,8,Annual,8,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Grammanik Tiger FSA,2017,8,Annual,8,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,0,0,1,0,0,0,0,1
+Grammanik Tiger FSA,2017,8,Annual,8,Mycteroperca venenosa,yellowfin grouper,pisc,0,0,0,0,0,0,1,0,0,0,0,1
+Grammanik Tiger FSA,2017,8,Annual,8,Mycteroperca interstitialis,yellowmouth grouper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Hind Bank East FSA,2017,4,Annual,1,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,0,1,0,0,0,0,1
+Hind Bank East FSA,2017,8,Annual,8,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,0,0,1,0,0,0,1
+Hind Bank East FSA,2017,8,Annual,8,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,0,1,0,0,0,0,1
+Hind Bank East FSA,2017,8,Annual,8,Mycteroperca interstitialis,yellowmouth grouper,pisc,0,0,0,1,0,0,0,0,0,0,0,1
+Hind Bank East FSA,2017,4,Annual,9,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,0,0,1,0,0,0,1
+Hind Bank East FSA,2017,4,Annual,9,Lutjanus jocu,dog snapper,pisc,0,0,0,0,3,1,0,0,0,0,0,4
+Hind Bank East FSA,2017,4,Annual,9,Mycteroperca tigris,tiger grouper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Hind Bank East FSA,2017,4,Annual,10,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,0,1,0,0,0,1,2
+Hind Bank East FSA,2017,4,Annual,10,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,0,0,0,1,0,0,1
+Magens Bay,2017,8,Annual,8,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+Meri Shoal,2017,8,Annual,8,Mycteroperca interstitialis,yellowmouth grouper,pisc,0,0,0,1,0,0,0,0,0,0,0,1
+Savana,2017,12,PostHurr,2,Epinephelus striatus,Nassau grouper,pisc,0,0,0,1,0,0,0,0,0,0,0,1
+South Water,2017,8,Annual,5,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+Buck Island STT,2018,11,Annual,3,Mycteroperca venenosa,yellowfin grouper,pisc,0,0,0,1,0,0,0,0,0,0,0,1
+Buck Island STT,2018,11,Annual,9,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+Buck Island STT,2018,3,WS,1,Epinephelus striatus,Nassau grouper,pisc,0,0,0,1,0,0,0,0,0,0,0,1
+Buck Island STT,2018,3,WS,5,Epinephelus striatus,Nassau grouper,pisc,0,0,0,1,0,0,0,0,0,0,0,1
+Buck Island STX,2018,11,Annual,2,Lutjanus jocu,dog snapper,pisc,0,1,1,1,0,0,0,0,0,0,0,3
+Buck Island STX Deep,2018,11,Annual,1,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,0,1,0,0,0,0,1
+Coculus Rock,2018,11,Annual,3,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+College Shoal East,2018,11,Annual,5,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,0,1,0,0,0,0,1
+College Shoal East,2018,11,Annual,7,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,0,0,0,0,1,0,1
+College Shoal East,2018,11,Annual,8,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+College Shoal East,2018,11,Annual,10,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Coral Bay,2018,10,Annual,2,Lutjanus jocu,dog snapper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+Coral Bay,2018,10,Annual,4,Lutjanus jocu,dog snapper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+Coral Bay,2018,10,Annual,7,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Coral Bay,2018,10,Annual,8,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Fish Bay,2018,10,Annual,5,Lutjanus jocu,dog snapper,pisc,0,0,0,1,0,1,0,0,0,0,0,2
+Flat Cay,2018,10,Annual,1,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Flat Cay,2018,10,Annual,2,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Flat Cay,2018,12,Annual,3,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Flat Cay,2018,12,Annual,4,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Flat Cay,2018,10,Annual,5,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,0,0,0,1,0,0,0,1
+Flat Cay,2018,10,Annual,6,Lutjanus jocu,dog snapper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+Flat Cay,2018,10,Annual,8,Lutjanus jocu,dog snapper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+Flat Cay,2018,10,Annual,8,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,0,1,1,0,0,0,0,2
+Flat Cay,2018,10,Annual,8,Mycteroperca venenosa,yellowfin grouper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Flat Cay,2018,10,Annual,10,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,1,1,0,0,0,0,0,2
+Flat Cay,2018,10,Annual,11,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+Flat Cay,2018,12,Annual,12,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,0,2,0,0,0,0,0,2
+Ginsburg Fringe,2018,10,Annual,1,Lutjanus jocu,dog snapper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+Ginsburg Fringe,2018,11,Annual,2,Mycteroperca interstitialis,yellowmouth grouper,pisc,0,0,1,0,0,0,0,0,0,0,0,1
+Grammanik Tiger FSA,2018,11,Annual,1,Lutjanus jocu,dog snapper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+Grammanik Tiger FSA,2018,11,Annual,2,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,0,0,0,1,0,0,0,1
+Grammanik Tiger FSA,2018,11,Annual,3,Mycteroperca tigris,tiger grouper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+Grammanik Tiger FSA,2018,12,Annual,6,Lutjanus jocu,dog snapper,pisc,0,0,0,1,0,0,0,0,0,0,0,1
+Grammanik Tiger FSA,2018,12,Annual,7,Lutjanus jocu,dog snapper,pisc,0,1,1,0,0,0,0,0,0,0,0,2
+Grammanik Tiger FSA,2018,12,Annual,9,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,0,1,1,0,0,0,2
+Grammanik Tiger FSA,2018,12,Annual,9,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,0,0,1,0,0,0,0,1
+Hind Bank East FSA,2018,11,Annual,1,Lutjanus jocu,dog snapper,pisc,0,0,0,0,2,0,0,0,0,0,0,2
+Hind Bank East FSA,2018,11,Annual,1,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Hind Bank East FSA,2018,11,Annual,1,Mycteroperca interstitialis,yellowmouth grouper,pisc,0,0,0,1,0,0,0,0,0,0,0,1
+Hind Bank East FSA,2018,11,Annual,3,Mycteroperca interstitialis,yellowmouth grouper,pisc,0,0,0,1,0,0,0,0,0,0,0,1
+Hind Bank East FSA,2018,12,Annual,4,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,0,0,0,0,0,1,1
+Hind Bank East FSA,2018,12,Annual,5,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Hind Bank East FSA,2018,12,Annual,5,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+Hind Bank East FSA,2018,12,Annual,5,Mycteroperca interstitialis,yellowmouth grouper,pisc,0,0,0,1,0,0,0,0,0,0,0,1
+Hind Bank East FSA,2018,11,Annual,7,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,0,0,0,1,0,0,1
+Hind Bank East FSA,2018,11,Annual,7,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,0,0,1,0,0,0,1
+Hind Bank East FSA,2018,12,Annual,8,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,0,0,0,1,0,0,1
+Hind Bank East FSA,2018,11,Annual,9,Lutjanus jocu,dog snapper,pisc,0,0,0,1,0,0,0,0,0,0,0,1
+Lang Bank Red Hind FSA,2018,11,Annual,3,Mycteroperca venenosa,yellowfin grouper,pisc,0,0,0,0,0,0,1,0,0,0,0,1
+Meri Shoal,2018,12,Annual,3,Mycteroperca tigris,tiger grouper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Meri Shoal,2018,12,Annual,8,Mycteroperca tigris,tiger grouper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+Meri Shoal,2018,12,Annual,9,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,0,1,0,0,0,0,1
+Meri Shoal,2018,12,Annual,9,Mycteroperca venenosa,yellowfin grouper,pisc,0,0,0,1,0,0,0,0,0,0,0,1
+Mutton Snapper FSA,2018,11,Annual,6,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,0,0,0,0,1,0,1
+Savana,2018,4,WS,6,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+South Capella,2018,10,Annual,2,Lutjanus jocu,dog snapper,pisc,0,0,0,1,0,0,0,0,0,0,0,1
+South Capella,2018,10,Annual,3,Lutjanus jocu,dog snapper,pisc,0,0,0,0,2,0,0,0,0,0,0,2
+Botany Bay,2019,8,Annual,7,Mycteroperca venenosa,yellowfin grouper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Brewers Bay,2019,8,Annual,7,Lutjanus jocu,dog snapper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+Buck Island STT,2019,8,Annual,3,Lutjanus jocu,dog snapper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+Buck Island STT,2019,8,Annual,5,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Castle,2019,10,Annual,4,Lutjanus jocu,dog snapper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+College Shoal East,2019,10,Annual,2,Lutjanus jocu,dog snapper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+College Shoal East,2019,10,Annual,6,Mycteroperca venenosa,yellowfin grouper,pisc,0,0,0,1,0,0,0,0,0,0,0,1
+College Shoal East,2019,10,Annual,8,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Fish Bay,2019,10,Annual,1,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+Flat Cay,2019,8,Annual,3,Lutjanus jocu,dog snapper,pisc,0,0,0,1,0,0,0,0,0,0,0,1
+Flat Cay,2019,8,Annual,4,Lutjanus jocu,dog snapper,pisc,0,0,0,1,0,0,0,0,0,0,0,1
+Grammanik Tiger FSA,2019,10,Annual,1,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,0,8,0,0,0,0,8
+Grammanik Tiger FSA,2019,10,Annual,2,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,15,1,1,0,0,0,17
+Grammanik Tiger FSA,2019,10,Annual,2,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+Grammanik Tiger FSA,2019,10,Annual,3,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,0,0,0,0,1,0,1
+Grammanik Tiger FSA,2019,10,Annual,3,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,0,0,0,1,0,0,0,1
+Grammanik Tiger FSA,2019,10,Annual,4,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,0,0,1,1,1,0,3
+Grammanik Tiger FSA,2019,10,Annual,5,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,0,0,1,2,0,0,3
+Grammanik Tiger FSA,2019,11,Annual,6,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,0,0,0,6,6,0,12
+Grammanik Tiger FSA,2019,11,Annual,6,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,0,2,0,0,0,0,0,2
+Grammanik Tiger FSA,2019,11,Annual,6,Mycteroperca venenosa,yellowfin grouper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+Grammanik Tiger FSA,2019,11,Annual,7,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,0,0,0,4,0,0,4
+Grammanik Tiger FSA,2019,11,Annual,7,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,0,1,0,0,0,0,1
+Grammanik Tiger FSA,2019,11,Annual,7,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,0,2,1,0,0,0,0,3
+Grammanik Tiger FSA,2019,11,Annual,7,Mycteroperca venenosa,yellowfin grouper,pisc,0,0,0,0,0,2,0,0,0,0,0,2
+Grammanik Tiger FSA,2019,10,Annual,8,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,0,6,0,0,0,0,6
+Grammanik Tiger FSA,2019,10,Annual,8,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Grammanik Tiger FSA,2019,10,Annual,8,Mycteroperca tigris,tiger grouper,pisc,0,0,0,1,0,0,0,0,0,0,0,1
+Grammanik Tiger FSA,2019,11,Annual,9,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,0,1,0,0,0,0,1
+Hind Bank East FSA,2019,10,Annual,1,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Hind Bank East FSA,2019,10,Annual,2,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Hind Bank East FSA,2019,10,Annual,2,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Hind Bank East FSA,2019,10,Annual,2,Mycteroperca venenosa,yellowfin grouper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Hind Bank East FSA,2019,10,Annual,3,Mycteroperca venenosa,yellowfin grouper,pisc,0,0,0,1,0,0,0,0,0,0,0,1
+Hind Bank East FSA,2019,10,Annual,5,Mycteroperca tigris,tiger grouper,pisc,0,0,0,0,0,0,0,1,0,0,0,1
+Hind Bank East FSA,2019,10,Annual,6,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+Hind Bank East FSA,2019,10,Annual,7,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,2,0,0,0,0,0,2
+Hind Bank East FSA,2019,10,Annual,7,Mycteroperca tigris,tiger grouper,pisc,0,0,0,0,0,0,1,0,0,0,0,1
+Hind Bank East FSA,2019,10,Annual,8,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,1,0,0,0,0,0,0
+Hind Bank East FSA,2019,10,Annual,8,Mycteroperca tigris,tiger grouper,pisc,0,0,0,0,0,0,1,0,0,0,0,0
+Kings Corner,2019,10,Annual,6,Lutjanus jocu,dog snapper,pisc,0,0,0,2,0,0,0,0,0,0,0,2
+Kings Corner,2019,10,Annual,8,Lutjanus jocu,dog snapper,pisc,0,0,0,1,0,0,0,0,0,0,0,1
+Salt River Deep,2019,10,Annual,2,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,0,1,0,0,0,0,1
+Salt River Deep,2019,10,Annual,3,Lutjanus jocu,dog snapper,pisc,0,0,0,1,0,0,0,0,0,0,0,1
+South Capella,2019,9,Annual,3,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+St James,2019,9,Annual,3,Lutjanus jocu,dog snapper,pisc,0,0,0,1,0,0,0,0,0,0,0,1
+Castle,2020,4,Annual,2,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+College Shoal East,2020,10,Annual,1,Lutjanus jocu,dog snapper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+College Shoal East,2020,10,Annual,2,Lutjanus jocu,dog snapper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+College Shoal East,2020,10,Annual,4,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,0,1,0,0,0,0,1
+College Shoal East,2020,10,Annual,8,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,0,1,0,0,0,0,1
+College Shoal East,2020,10,Annual,8,Lutjanus jocu,dog snapper,pisc,0,0,0,1,0,0,0,0,0,0,0,1
+Flat Cay,2020,9,Annual,4,Mycteroperca venenosa,yellowfin grouper,pisc,0,0,1,0,0,0,0,0,0,0,0,1
+Grammanik Tiger FSA,2020,10,Annual,1,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Grammanik Tiger FSA,2020,10,Annual,1,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Grammanik Tiger FSA,2020,10,Annual,2,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,9,3,0,0,0,0,12
+Grammanik Tiger FSA,2020,10,Annual,3,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,0,1,0,0,0,0,1
+Grammanik Tiger FSA,2020,10,Annual,3,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,0,1,0,0,0,0,1
+Grammanik Tiger FSA,2020,10,Annual,4,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Grammanik Tiger FSA,2020,10,Annual,4,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,0,0,1,0,0,0,0,1
+Grammanik Tiger FSA,2020,10,Annual,4,Mycteroperca interstitialis,yellowmouth grouper,pisc,0,0,0,1,0,0,0,0,0,0,0,1
+Grammanik Tiger FSA,2020,10,Annual,5,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,10,0,0,0,0,0,10
+Grammanik Tiger FSA,2020,10,Annual,5,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+Grammanik Tiger FSA,2020,11,Annual,7,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,0,0,1,0,0,0,0,1
+Grammanik Tiger FSA,2020,10,Annual,7,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,0,0,1,0,0,0,0,1
+Grammanik Tiger FSA,2020,11,Annual,8,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,0,0,2,0,0,0,0,2
+Grammanik Tiger FSA,2020,10,Annual,8,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,0,0,2,0,0,0,0,2
+Grammanik Tiger FSA,2020,11,Annual,8,Mycteroperca venenosa,yellowfin grouper,pisc,0,0,0,0,0,0,1,0,0,0,0,1
+Grammanik Tiger FSA,2020,10,Annual,8,Mycteroperca venenosa,yellowfin grouper,pisc,0,0,0,0,0,0,1,0,0,0,0,1
+Grammanik Tiger FSA,2020,11,Annual,8,Mycteroperca interstitialis,yellowmouth grouper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+Grammanik Tiger FSA,2020,10,Annual,8,Mycteroperca interstitialis,yellowmouth grouper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+Grammanik Tiger FSA,2020,11,Annual,9,Mycteroperca interstitialis,yellowmouth grouper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+Grammanik Tiger FSA,2020,10,Annual,9,Mycteroperca interstitialis,yellowmouth grouper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+Hind Bank East FSA,2020,8,Annual,1,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,0,0,1,0,0,0,1
+Hind Bank East FSA,2020,8,Annual,2,Lutjanus jocu,dog snapper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+Hind Bank East FSA,2020,8,Annual,3,Mycteroperca venenosa,yellowfin grouper,pisc,0,0,1,0,0,1,0,0,0,0,0,2
+Hind Bank East FSA,2020,8,Annual,4,Lutjanus jocu,dog snapper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+Hind Bank East FSA,2020,10,Annual,6,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,0,0,0,1,0,0,1
+Hind Bank East FSA,2020,8,Annual,6,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,0,0,0,1,0,0,1
+Hind Bank East FSA,2020,10,Annual,7,Epinephelus striatus,Nassau grouper,pisc,0,0,0,1,0,0,0,0,0,0,0,1
+Hind Bank East FSA,2020,8,Annual,7,Epinephelus striatus,Nassau grouper,pisc,0,0,0,1,0,0,0,0,0,0,0,1
+Hind Bank East FSA,2020,10,Annual,9,Lutjanus jocu,dog snapper,pisc,0,0,0,2,0,0,0,0,0,0,0,2
+Hind Bank East FSA,2020,8,Annual,9,Lutjanus jocu,dog snapper,pisc,0,0,0,2,0,0,0,0,0,0,0,2
+Hind Bank East FSA,2020,10,Annual,9,Mycteroperca tigris,tiger grouper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+Hind Bank East FSA,2020,8,Annual,9,Mycteroperca tigris,tiger grouper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+Lang Bank EEMP,2020,3,Annual,1,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+Lang Bank EEMP,2020,3,Annual,4,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Lang Bank Red Hind FSA,2020,3,Annual,6,Mycteroperca venenosa,yellowfin grouper,pisc,0,0,0,1,0,0,0,0,0,0,0,1
+Meri Shoal,2020,9,Annual,5,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,0,0,1,0,0,0,1
+Salt River Deep,2020,4,Annual,3,Lutjanus jocu,dog snapper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+South Capella,2020,9,Annual,5,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+South Capella,2020,9,Annual,5,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+South Capella,2020,9,Annual,7,Lutjanus jocu,dog snapper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+Buck Island STT,2021,10,Annual,4,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,0,1,0,0,0,0,1
+College Shoal East,2021,10,Annual,1,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+College Shoal East,2021,10,Annual,1,Lutjanus jocu,dog snapper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+College Shoal East,2021,10,Annual,2,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+College Shoal East,2021,10,Annual,3,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,0,1,0,0,0,0,1
+College Shoal East,2021,10,Annual,5,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,0,0,0,0,1,0,1
+College Shoal East,2021,10,Annual,8,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+College Shoal East,2021,10,Annual,9,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,0,0,2,0,0,0,2
+Grammanik Tiger FSA,2021,10,Annual,1,Lutjanus jocu,dog snapper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+Grammanik Tiger FSA,2021,10,Annual,1,Mycteroperca interstitialis,yellowmouth grouper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+Grammanik Tiger FSA,2021,10,Annual,2,Lutjanus jocu,dog snapper,pisc,0,0,0,1,0,0,1,0,0,0,0,2
+Grammanik Tiger FSA,2021,10,Annual,2,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,0,0,0,0,0,1,0,1
+Grammanik Tiger FSA,2021,10,Annual,4,Mycteroperca interstitialis,yellowmouth grouper,pisc,0,0,0,1,0,0,0,0,0,0,0,1
+Grammanik Tiger FSA,2021,10,Annual,5,Mycteroperca interstitialis,yellowmouth grouper,pisc,0,0,0,1,0,0,0,0,0,0,0,1
+Grammanik Tiger FSA,2021,10,Annual,7,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,0,2,0,0,0,0,0,2
+Grammanik Tiger FSA,2021,10,Annual,8,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,0,0,1,1,0,0,0,2
+Grammanik Tiger FSA,2021,10,Annual,8,Lutjanus jocu,dog snapper,pisc,0,0,0,0,0,0,0,1,0,0,0,1
+Grammanik Tiger FSA,2021,10,Annual,9,Lutjanus jocu,dog snapper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+Hind Bank East FSA,2021,10,Annual,3,Mycteroperca tigris,tiger grouper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+Hind Bank East FSA,2021,10,Annual,3,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+Hind Bank East FSA,2021,10,Annual,4,Lutjanus jocu,dog snapper,pisc,0,0,0,1,0,0,0,0,0,0,0,1
+Hind Bank East FSA,2021,10,Annual,4,Mycteroperca interstitialis,yellowmouth grouper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Hind Bank East FSA,2021,10,Annual,5,Lutjanus jocu,dog snapper,pisc,0,0,0,0,1,0,0,0,0,0,0,1
+Hind Bank East FSA,2021,10,Annual,5,Mycteroperca venenosa,yellowfin grouper,pisc,0,0,0,0,0,0,1,0,0,0,0,1
+Hind Bank East FSA,2021,10,Annual,7,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,0,0,1,0,0,0,0,1
+Hind Bank East FSA,2021,10,Annual,8,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,0,0,1,0,0,0,0,1
+Hind Bank East FSA,2021,11,Annual,9,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,0,0,1,0,0,0,1
+Hind Bank East FSA,2021,11,Annual,9,Epinephelus striatus,Nassau grouper,pisc,0,0,0,0,0,0,0,1,0,0,0,1
+Meri Shoal,2021,10,Annual,1,Mycteroperca venenosa,yellowfin grouper,pisc,0,0,0,0,0,1,0,0,0,0,0,1
+Meri Shoal,2021,10,Annual,7,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,0,0,1,0,0,0,1
+Meri Shoal,2021,10,Annual,8,Mycteroperca venenosa,yellowfin grouper,pisc,0,0,0,1,0,0,0,0,0,0,0,1
+Mutton Snapper FSA,2021,11,Annual,5,Lutjanus cyanopterus,cubera snapper,pisc,0,0,0,0,0,0,0,0,0,1,0,1

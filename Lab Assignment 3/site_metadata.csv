@@ -1,0 +1,4 @@
+site,location_type,management_zone
+Site_A,Sheltered,Zone_1
+Site_B,Intermediate,Zone_2
+Site_C,Exposed,Zone_3
