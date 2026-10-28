@@ -1,6 +1,7 @@
 library(shiny)
 library(tidyverse)
 library(bslib)
+library(later)
 
 # Blackwater Manor Incident: Shiny Escape Room
 # SETUP: save as app.R in a project folder. Create a subfolder named www and
@@ -54,7 +55,7 @@ rooms <- list(
   list(number=4, title="The Specimen Room", image="SpecimenRoom.png",
        scene="Glass jars line the walls. Some contain only cloudy seawater; others pulse with a dim blue light. On the floor, the remains of a large aquarium glitter beneath a trail of wet marks. A note under a poster of growth rate reads:
 'The growth rate was stable for days. Then something changed.
-I recorded the growth even as I realized it was becoming dangerous. The first sign that things might get out of control was when growth exceeded 5 mm/day. I visualized the data to evaluate my temperature hypothesis and found the date of the first observation that crossed the threshold. This date holds the key to the mystery.' You find the data he wrote about and digitize it: wren_growth_timeseries.csv.
+I recorded the growth even as I realized it was becoming dangerous. The first sign that things might get out of control was when growth exceeded 5 mm/day. I visualized the data to evaluate my temperature hypothesis and found the date of the first observation that crossed the threshold.' You find the data he wrote about and digitize it: wren_growth_timeseries.csv. Could recreating Dr. Wren's visual help solve the mystery?
 ",
        puzzle_title="The Temperature Threshold",
        puzzle="Using wren_growth_timeseries.csv, plot growth rate over time, coloring points based on temperature, and add a horizontal line at 5 mm/day. Find the first date on which growth exceeded this threshold. Enter the date as YYYY-MM-DD.",
@@ -120,7 +121,62 @@ ui <- fluidPage(
       .ending { max-width:900px; margin:35px auto; padding:30px; background:#080909; border:1px solid #746443; text-align:center; line-height:1.8; font-size:19px; }
       .ending h2 { color:#d9c69a; }
       @media(max-width:700px) { .room-scene { min-height:520px; height:70vh; } .narrative-bubble { font-size:14px; padding:10px 12px; } .room-title { font-size:16px; } }
-    "))
+    /* Spooky success pop-up */
+.modal-content {
+  background: #111416;
+  color: #eee9df;
+  border: 2px solid #b9a77a;
+  border-radius: 4px;
+  box-shadow: 0 0 30px rgba(0, 0, 0, 0.9);
+  font-family: Georgia, serif;
+}
+
+.modal-header {
+  background: #080909;
+  border-bottom: 1px solid #746443;
+}
+
+.modal-title {
+  color: #d9c69a;
+  font-size: 22px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+.modal-body {
+  white-space: pre-line;
+}
+/* Final amphipod reveal */
+.finale {
+  position: fixed;
+  inset: 0;
+  z-index: 9999;
+  background: #000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+}
+
+.finale img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.finale-end {
+  position: fixed;
+  inset: 0;
+  z-index: 10000;
+  background: #000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #eee9df;
+  font-family: Georgia, serif;
+  font-size: 48px;
+  letter-spacing: 10px;
+}"))
   ),
   div(class="app-header", h1("THE BLACKWATER MANOR INCIDENT"), p("A data-science escape room")),
   uiOutput("game_ui")
@@ -130,6 +186,8 @@ server <- function(input, output, session) {
   current_room <- reactiveVal(1)
   clue_text <- reactiveVal("")
   status_text <- reactiveVal("Inspect the room, solve the puzzle in R, and enter your answer.")
+  pending_room <- reactiveVal(NULL)
+  finale_stage <- reactiveVal("playing")
   
   make_hotspot <- function(h) {
     actionButton(inputId=h$id, label=HTML("✦"), title=h$label, class="hotspot",
@@ -137,32 +195,35 @@ server <- function(input, output, session) {
   }
   
   output$game_ui <- renderUI({
-    r <- current_room()
     
-    if (r > length(rooms)) {
+    # Stage 1: Show the amphipod
+    if (finale_stage() == "creature") {
       return(
         div(
-          class = "ending",
-          h2("THE BLACKWATER MANOR INCIDENT"),
-          p("You turn and find one final research note:"),
-          p("'October 28, 1926"),
-          p("I understand now. Neither temperature nor nutrients alone explains what happened. The transformation occurs when the two conditions coincide."),
-          p("The organisms have grown far beyond their expected size. They have survived outside the tanks. I can hear something moving in the corridor."),
-          p("I thought I was studying a biological curiosity. I may have created something that should never have existed. If anyone finds this note, do not repeat the experiment.'"),
-          p(""),
-          p(""),
-          p("You hear a scraping sound behind you... You turn around."),
-          p("A gigantic amphipod, its body faintly glowing blue, fills the doorway."),
-          p("The lights go out."),
-          h3("END"),
-          br(),
-          actionButton(
-            inputId = "reveal_creature",
-            label = "⚠ REVEAL THE CREATURE",
-            class = "btn-primary"
+          class = "finale",
+          tags$img(
+            src = "amphipod.png",
+            alt = "A gigantic glowing amphipod"
           )
         )
       )
+    }
+    
+    # Stage 2: Show the black screen and END
+    if (finale_stage() == "end") {
+      return(
+        div(
+          class = "finale-end",
+          "END"
+        )
+      )
+    }
+    
+    # Otherwise, display the current room
+    r <- current_room()
+    
+    if (r > length(rooms)) {
+      return(NULL)
     }
     
     room <- rooms[[r]]
@@ -192,20 +253,20 @@ server <- function(input, output, session) {
   output$status_text <- renderText(status_text())
   
   
-  observeEvent(input$reveal_creature, {
-    showModal(
-      modalDialog(
-        title = "LOOK OUT!",
-        tags$img(
-          src = "amphipod.png",
-          style = "width: 100%; height: auto; display: block;"
-        ),
-        size = "l",
-        easyClose = TRUE,
-        footer = modalButton("Close")
-      )
-    )
-  })
+  # observeEvent(input$reveal_creature, {
+  #   showModal(
+  #     modalDialog(
+  #       title = "LOOK OUT!",
+  #       tags$img(
+  #         src = "amphipod.png",
+  #         style = "width: 100%; height: auto; display: block;"
+  #       ),
+  #       size = "l",
+  #       easyClose = TRUE,
+  #       footer = modalButton("Close")
+  #     )
+  #   )
+  # })
   
   
   hotspot_ids <- unlist(lapply(rooms, function(room) {
@@ -227,46 +288,157 @@ server <- function(input, output, session) {
     })
   }
   
+  observeEvent(input$submit_answer, {
+    
+    r <- current_room()
+    
+    if (r > length(rooms)) return()
+    
+    answer <- normalize_answer(input$answer)
+    
+    correct <- switch(
+      as.character(r),
+      "1" = identical(answer, normalize_answer(answer_key$frontdoor)),
+      "2" = identical(answer, normalize_answer(answer_key$entrance)),
+      "3" = identical(answer, normalize_answer(answer_key$library)),
+      "4" = identical(answer, normalize_answer(answer_key$specimen)),
+      "5" = identical(answer, normalize_answer(answer_key$laboratory)),
+      "6" = identical(answer, normalize_answer(answer_key$study)),
+      FALSE
+    )
+    
+    if (correct) {
+      
+      # Success message for each room
+      messages <- c(
+        "The front door groans open. Somewhere inside, something scurries across the floor. You step into Blackwater Manor.",
+        "The notebook snaps shut. A hidden mechanism clicks, and the library door slowly swings open.",
+        "A latch clicks behind the specimen catalog. Cold, blue light spills through a newly revealed doorway.",
+        "The laboratory door unlocks with a heavy metallic clang. From somewhere beyond it comes a faint, wet scraping sound.",
+        "Another door creaks open revealing a Dr. Wren's secret study. Papers flutter across the desk, though there is no wind. Something is waiting inside.",
+        "You hear a scraping sound behind you... As you turn you find one final research note. It reads:\n\n  'I understand now. Neither temperature nor nutrients alone explains what happened. The transformation occurs when the two conditions coincide.\n
+
+The organisms have grown far beyond their expected size. They have survived outside the tanks. I can hear something moving in the corridor.\n
+
+I thought I was studying a biological curiosity. I may have created something that should never have existed. If anyone finds this note, do not repeat the experiment.'\n\n 
+        The scraping is getting louder behind you. Do you dare to turn around?"
+      )
+      
+      # Store the destination room
+      pending_room(r + 1)
+      
+      # Clear the answer and clue
+      clue_text("")
+      updateTextInput(session, "answer", value = "")
+      
+      # Display spooky success modal
+      showModal(
+        modalDialog(
+          title = switch(
+            as.character(r),
+            "1" = "THE DOOR OPENS",
+            "2" = "A SECRET REVEALED",
+            "3" = "BEYOND THE SPECIMENS",
+            "4" = "THE EXPERIMENT CONTINUES",
+            "5" = "SOMETHING IS WAITING",
+            "6" = "THE FINAL SECRET"
+          ),
+          
+          tags$p(messages[r]),
+          
+          footer = actionButton(
+            "continue_room",
+            "CONTINUE",
+            class = "btn-spooky"
+          ),
+          
+          easyClose = FALSE,
+          fade = TRUE
+        )
+      )
+      
+    } else {
+      
+      status_text(
+        "That answer doesn't unlock the next room. Revisit your analysis, inspect the scene, or request a hint."
+      )
+      
+      updateTextInput(session, "answer", value = "")
+    }
+    
+  })
+  
   observeEvent(input$show_hint, {
     r <- current_room()
     if (r <= length(rooms)) status_text(paste("HINT:", rooms[[r]]$hint))
   })
-  
+
   normalize_answer <- function(x) {
     x <- trimws(tolower(x))
     gsub("\\s+", " ", x)
   }
-  
-  observeEvent(input$submit_answer, {
-    r <- current_room()
-    if (r > length(rooms)) return()
-    answer <- normalize_answer(input$answer)
-    correct <- switch(as.character(r),
-                      "1" = identical(answer, answer_key$frontdoor),
-                      "2" = identical(answer, answer_key$entrance),
-                      "3" = identical(answer, answer_key$library),
-                      "4" = identical(answer, answer_key$specimen),
-                      "5" = identical(answer, answer_key$laboratory),
-                      "6" = identical(answer, answer_key$study),
-                      FALSE
-    )
-    if (correct) {
-      messages <- c(
-        "You and your research team step inside Blackwater Manor.",
-        "Correct. A door swings open, revealing a library.",
-        "Correct. A hidden latch clicks behind the specimen catalog. You walk through the hidden door to find a room full of specimens.",
-        "Correct. A door you didn't notice before unlocks with a heavy metallic sound and leads you to a research laboratory.",
-        "Correct. A door to Dr. Wren's private study swings open.",
-        ""
-      )
-      status_text(messages[r])
-      current_room(r + 1)
-    } else {
-      status_text("That answer doesn't unlock the next room. Revisit your analysis, inspect the scene, or request a hint.")
+
+  # observeEvent(input$submit_answer, {
+  #   r <- current_room()
+  #   if (r > length(rooms)) return()
+  #   answer <- normalize_answer(input$answer)
+  #   correct <- switch(as.character(r),
+  #                     "1" = identical(answer, answer_key$frontdoor),
+  #                     "2" = identical(answer, answer_key$entrance),
+  #                     "3" = identical(answer, answer_key$library),
+  #                     "4" = identical(answer, answer_key$specimen),
+  #                     "5" = identical(answer, answer_key$laboratory),
+  #                     "6" = identical(answer, answer_key$study),
+  #                     FALSE
+  #   )
+    # if (correct) {
+    #   messages <- c(
+    #     "You and your research team step inside Blackwater Manor.",
+    #     "Correct. A door swings open, revealing a library.",
+    #     "Correct. A hidden latch clicks behind the specimen catalog. You walk through the hidden door to find a room full of specimens.",
+    #     "Correct. A door you didn't notice before unlocks with a heavy metallic sound and leads you to a research laboratory.",
+    #     "Correct. A door to Dr. Wren's private study swings open.",
+    #     ""
+    #   )
+    #   status_text(messages[r])
+    #   current_room(r + 1)
+    # } else {
+    #   status_text("That answer doesn't unlock the next room. Revisit your analysis, inspect the scene, or request a hint.")
+    # }
+    # clue_text("")
+    # updateTextInput(session, "answer", value="")
+  #   
+  #   }
+  # })
+  # Advance only after the student clicks Continue
+  # Advance to the next room or begin the finale
+  # Advance to the next room or begin the finale
+  observeEvent(input$continue_room, {
+    next_room <- isolate(pending_room())
+    removeModal()
+    
+    if (!is.null(next_room)) {
+      
+      if (next_room > length(rooms)) {
+        
+        # Show the amphipod image
+        finale_stage("creature")
+        
+        # Switch to the END screen after 3 seconds
+        later::later(function() {
+          shiny::withReactiveDomain(session, {
+            finale_stage("end")
+          })
+        }, delay = 5)
+        
+      } else {
+        current_room(next_room)
+      }
+      
+      pending_room(NULL)
     }
-    clue_text("")
-    updateTextInput(session, "answer", value="")
-  })
+    
+  }, ignoreInit = TRUE)
 }
 
 shinyApp(ui=ui, server=server)
