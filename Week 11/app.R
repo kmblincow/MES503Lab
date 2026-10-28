@@ -69,10 +69,10 @@ I recorded the growth even as I realized it was becoming dangerous. The first si
        scene="The laboratory smells of salt, rust, and something faintly sweet. Four experimental tanks stand beneath a bank of old instruments. Labels identify different combinations of temperature and nutrients. A research note reads:
 'Temperature alone has not explained the observations. I examined the nutrient treatments next.
 The nutrient-rich tanks appeared to contain rapidly growing specimens, but visual inspection was not sufficient. I ran a test to determine whether mean growth rate differed between the nutrient treatments.' Suddenly, a disembodied voice echoes throughout the room: 'Demonstrate your worthiness to learn what happened to me by running a statistical test and showing me how you would report the p-value.'
-After gathering yourself, you find a dataset of experimental growth measurements that you digitize: wren_growth_experiment.csv 
+After gathering yourself, you find a dataset of experimental growth measurements that you digitize: wren_nutrient_experiment.csv 
 ",
        puzzle_title="The Nutrient Hypothesis",
-       puzzle="Use the wren_growth_experiment.csv data to perform a statistical test to determine whether growth rate differs between nutrient treatments. Based on the results of your test, input how you would report the p value (e.g. p = .589).",
+       puzzle="Use the wren_nutrient_experiment.csv data to perform a statistical test to determine whether growth rate differs between nutrient treatments. Based on the results of your test, input how you would report the p value (e.g. p = .589).",
        hint="What is the standard protocol for reporting p values? Include spaces similar to the example provided.",
        hotspots=list(
          list(id="lab_tanks",label="Experimental tanks",x=48,y=43,message="The warm, nutrient-rich tank is coated in residue. The other tanks show far less growth."),
@@ -429,7 +429,7 @@ I thought I was studying a biological curiosity. I may have created something th
           shiny::withReactiveDomain(session, {
             finale_stage("end")
           })
-        }, delay = 5)
+        }, delay = 6)
         
       } else {
         current_room(next_room)

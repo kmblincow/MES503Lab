@@ -46,7 +46,7 @@ library[library$species=="Scina borealis" & library$level == 5,]$notes <-
 
 library[library$species=="Scina borealis" & library$level == 5,]$date <- "1926-10-12"
 
-write.csv(library, "Week 11/ManorDatasets/wren_research_studies.csv")
+write.csv(library, "Week 11/ManorDatasets/2_wren_research_studies.csv")
 
 # Room 3: The Specimen Room
 
@@ -188,3 +188,27 @@ m1 <- aov(growth_rate_mm_day~temperature_group + nutrient_treatment, data = expe
 m2 <- aov(growth_rate_mm_day~temperature_group*nutrient_treatment, data = experiment)
 
 AIC(m1, m2)
+
+
+#confirm answers are correct
+room1 <- read.csv("Week 11/ManorDatasets/1_wren_initial_observations.csv")
+room1
+
+room2 <- read.csv("Week 11/ManorDatasets/2_wren_research_studies.csv")
+room2 |> group_by(species) |> summarize(n = n())
+room2 |> filter(species == "Scina borealis", level ==5)
+
+room3 <- read.csv("Week 11/ManorDatasets/3_wren_growth_timeseries.csv")
+room3 |> filter(growth_rate_mm_day > 5)
+
+room4 <- read.csv("Week 11/ManorDatasets/4_wren_nutrient_experiment.csv")
+t.test(growth_rate_mm_day~nutrient_treatment, data = room4)
+aov(growth_rate_mm_day~nutrient_treatment, data = room4) |> summary()
+
+room5 <- read.csv("Week 11/ManorDatasets/5_wren_final_experiment.csv")
+m1 <- aov(growth_rate_mm_day~temperature_group + nutrient_treatment, data = room5)
+m2 <- aov(growth_rate_mm_day~temperature_group*nutrient_treatment, data = room5)
+
+AIC(m1, m2)
+
+plot(m2)
